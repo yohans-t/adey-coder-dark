@@ -2,10 +2,77 @@
 	"name": "Adey Coder Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#242d24",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbfbbb"
+		"activityBar.background": "#1d241d",
+		"activityBar.foreground": "#afffaf",
+		"activityBarBadge.background": "#ffff00",
+		"activityBarBadge.foreground": "#242d24",
+		"activityBar.activeBorder": "#afffaf",
+
+		"breadcrumb.background": "#242f24",
+		"breadcrumb.foreground": "#dfffdf",
+		"breadcrumb.focusForeground": "#00ff00",
+		"button.background": "#dfffdf",
+		"button.foreground": "#242d24",
+		"button.hoverBackground": "#afffaf",
+		"button.secondaryBackground": "#edffed",
+		"button.secondaryForeground": "#2a3a2a",
+		"badge.background": "#455545",
+		"badge.foreground": "#afffaf",
+
+		"dropdown.background": "#323f32",
+		"dropdown.border": "#323f32",
+		"dropdown.listBackground": "#323f32",
+		"dropdown.foreground": "#dfffdf",
+
+		"editorGroup.border": "#ff0000",
+		"editor.background": "#242f24",
+		"editor.foreground": "#ffffff",
+		"editorLineNumber.foreground": "#dfffdf",
+		"editorGutter.background": "#202d20",
+		"editor.findMatchBackground": "#6a7f6a",
+		"editor.findMatchHighlightBackground": "#455545",
+		"editor.foldBackground": "#2a3a2a",
+		"editor.selectionBackground": "#afffaf",
+		"editor.selectionForeground": "#242d24",
+		"editor.lineHighlightBackground": "#364a36",
+		"editorWidget.background": "#323f32",
+		"editorWidget.foreground": "#dfffdf",
+
+		"input.background": "#242d24",
+		"input.foreground": "#dfffdf",
+		"input.placeholderForeground": "#dfffdf79",
+		"icon.foreground": "#afffaf",
+
+		"list.activeSelectionBackground": "#505d50",
+		"list.activeSelectionForeground": "#afffaf",
+		"list.dropBackground": "#afffaf1f",
+
+		"minimapSlider.background": "#afffaf2f",
+		"minimap.background": "#1d241d",
+
+		"sideBarTitle.foreground": "#70fb70",
+		"sideBar.background": "#102010",
+		"sideBar.foreground": "#dfffdf",
+		"sideBarSectionHeader.background": "#242d24",
+		"sideBarSectionHeader.foreground": "#afffaf",
+		"statusBar.background": "#2a3a2a",
+
+		"titleBar.activeBackground": "#242f24",
+		"titleBar.activeForeground": "#dfffdf",
+		"titleBar.inactiveForeground": "#dfffdf44",
+		"tab.activeBackground": "#2a3a2a",
+		"tab.inactiveBackground": "#242d24",
+		"tab.activeBorder": "#00ff00",
+		"tab.activeForeground": "#afffaf",
+		"tab.hoverBackground": "#00ff0024",
+		"tab.hoverForeground": "#00ff00",
+		"terminal.background": "#293f29",
+		"terminal.foreground": "#70fb70",
+		"terminal.selectionBackground": "#00ff0094",
+		"toolbar.activeBackground": "#2afa2a",
+		
+		"widget.shadow": "#242d24",
+
 	},
 	"tokenColors": [
 		{
@@ -26,7 +93,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffff00"
 			}
 		},
 		{
@@ -56,7 +123,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b0ff80"
 			}
 		},
 		{
@@ -76,7 +143,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#c0ffc0"
 			}
 		},
 		{
@@ -87,7 +154,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffff00"
 			}
 		},
 		{
@@ -100,7 +167,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00ff00"
 			}
 		},
 		{
@@ -109,7 +176,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffffc5"
 			}
 		},
 		{
@@ -135,7 +202,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -150,7 +217,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#ffdb00"
 			}
 		},
 		{
@@ -189,7 +256,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#80ff80"
 			}
 		},
 		{
@@ -239,7 +306,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#00efff"
 			}
 		},
 		{
