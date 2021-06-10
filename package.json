@@ -3,6 +3,19 @@
     "displayName": "Adey Coder Dark",
     "description": "Adey Coder Dark Theme for VS Code Editor",
     "version": "0.0.1",
+    "icon": "./images/logo.png",
+    "publisher": "AdeyCoder",
+    "repository": {
+        "git",
+        "https://github.com/yohans-t/adey-coder-dark.git"
+    },
+    "keywords":[
+        "dark",
+        "theme",
+        "Green dark theme",
+        "Adey Coder",
+        "Dark Theme"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },

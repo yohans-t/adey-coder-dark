@@ -9,9 +9,9 @@
 		"activityBar.activeBorder": "#afffaf",
 		"activityBar.border": "#265426",
 
-		"breadcrumb.background": "#265426",
+		"breadcrumb.background": "#152515",
 		"breadcrumb.focusForeground": "#FFFF00",
-		"breadcrumb.foreground": "#00ff00",
+		"breadcrumb.foreground": "#AFFFAF",
 		"breadcrumb.activeSelectionForeground": "#ff0000",
 		"button.background": "#55BB55",
 		"button.foreground": "#DFFFDF",
