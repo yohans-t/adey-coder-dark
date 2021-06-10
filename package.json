@@ -6,8 +6,8 @@
     "icon": "./images/logo.png",
     "publisher": "AdeyCoder",
     "repository": {
-        "git",
-        "https://github.com/yohans-t/adey-coder-dark.git"
+        "type":"git",
+        "url":"https://github.com/yohans-t/adey-coder-dark.git",
     },
     "keywords":[
         "dark",
