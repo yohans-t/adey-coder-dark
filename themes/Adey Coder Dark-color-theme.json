@@ -58,7 +58,7 @@
 		// Editor line numbers
 		"editorLineNumber.foreground": "#AFFFAF7F",
 		"editorLineNumber.activeForeground": "#FFFF00",
-		"editorGutter.background": "#1B331B",
+		"editorGutter.background": "#152515",
 		"editor.lineHighlightBackground": "#265426",
 		
 		//global
@@ -183,7 +183,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#55BB55"
+				"foreground": "#55BB557F"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#6CED6C"
+				"foreground": "#FF80FF"
 			}
 		},
 		{
@@ -294,7 +294,16 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#7DF6F6"
+			}
+		},
+		{
+			"name": "Block Level Variables",
+			"scope": [
+				"variable.other.property.js"
+			],
+			"settings": {
+				"foreground": "#6CED6C"
 			}
 		},
 		{
@@ -321,6 +330,15 @@
 			],
 			"settings": {
 				"foreground": "#6CED6C"
+			}
+		},
+		{
+			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"scope": [
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#FFFF00"
 			}
 		},
 		{
