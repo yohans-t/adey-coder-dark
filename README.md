@@ -18,9 +18,21 @@ This the First & Test version of **Adey Coder Dark Theme**.
 ## Screenshot
 
 Preview of theme on **HTML**, **CSS**, **JavaScript** and **PHP**
+
+### HTML
+
 ![ScreenShot of HTML](./images/HTML.png)
+
+### CSS
+
 ![ScreenShot of CSS](./images/CSS.png)
+
+### JavaScript
+
 ![ScreenShot of JavaScript](./images/JS.png)
+
+### PHP
+
 ![ScreenShot of PHP](./images/PHP.png)
 
 Thank your using 🙂
