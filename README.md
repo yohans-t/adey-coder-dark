@@ -1,14 +1,10 @@
 # Adey Coder Dark Theme
 
-## Screenshot
-
-![Preview of JS and HTML](./images/screenshot.jpg)
-
 📺 Youtube channel : [Adey Coder](https://youtube.com/c/AdeyCoder)
 
 This the First & Test version of **Adey Coder Dark Theme**.
 
-## Tested n the following Languages
+## Tested on the following Languages
 
 - HTML
 - CSS
@@ -18,6 +14,14 @@ This the First & Test version of **Adey Coder Dark Theme**.
 - MarkDown
 - Dart (Flutter)
 - JSON
+
+## Screenshot
+
+Preview of theme on **HTML**, **CSS**, **JavaScript** and **PHP**
+![ScreenShot of HTML](./images/HTML.png)
+![ScreenShot of CSS](./images/CSS.png)
+![ScreenShot of JavaScript](./images/JS.png)
+![ScreenShot of PHP](./images/PHP.png)
 
 Thank your using 🙂
 
