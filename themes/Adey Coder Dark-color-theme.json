@@ -49,11 +49,14 @@
 		"editor.selectionForeground": "#FFFFFF",
 		"editorWidget.background": "#265426",
 		"editorWidget.foreground": "#AfffAf",
+		"editorWidget.border": "#5B5",
 		"editorSuggestWidget.background": "#265426",
 		"editorSuggestWidget.border": "#55BB55",
-		"editorSuggestWidget.foreground": "#FFF",
+		"editorSuggestWidget.foreground": "#AFFFAF",
 		"editorSuggestWidget.selectedBackground": "#1B331B",
-		"editorSuggestWidget.highlightForeground": "#FFFF00",
+		"editorSuggestWidget.highlightForeground": "#FFF",
+		"editorSuggestWidget.focusHighlightForeground": "#FF0",
+		"editorSuggestWidget.selectedForeground": "#EDEDED",
 
 		// Editor line numbers
 		"editorLineNumber.foreground": "#AFFFAF7F",
@@ -171,6 +174,9 @@
 		"tab.unfocusedActiveBackground": "#152515",
 		"editorGroupHeader.tabsBackground":"#152515",
 		"editorGroup.dropBackground": "#AFFFAF2F",
+
+		"textLink.foreground": "#FFFF00",
+		"textLink.activeForeground": "#00FF00",
 		
 		"widget.shadow": "#AFFFAF20",
 	},
@@ -212,7 +218,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#FF83a0"
 			}
 		},
 		{
