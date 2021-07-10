@@ -144,6 +144,9 @@
 		"statusBarItem.hoverBackground":"#265426",
 		"statusBarItem.activeBackground": "#55BB55",
 		"statusBar.debuggingBackground": "#55BB55",
+		"statusBar.noFolderBackground":"#152515",
+		"statusBar.noFolderBorder": "#55BB55",
+		"statusBar.debuggingForeground": "#55BB55",
 
 		//SETTINGS
 		"settings.headerForeground": "#AFFFAF",
@@ -165,9 +168,9 @@
 		"tab.activeBackground": "#245424",
 		"tab.inactiveBackground": "#152515",
 		"tab.activeBorder": "#00FF00",
-		"tab.activeForeground": "#afffaf",
+		"tab.activeForeground": "#AFFFAF",
 		"tab.hoverBackground": "#265426",
-		"tab.hoverForeground": "#00ff00",
+		"tab.hoverForeground": "#00FF00",
 		"tab.activeModifiedBorder": "#FFFF00",
 		"tab.inactiveModifiedBorder": "#FFFF00B0",
 		"tab.inactiveForeground": "#55BB55",
@@ -179,6 +182,7 @@
 		"textLink.activeForeground": "#00FF00",
 		
 		"widget.shadow": "#AFFFAF20",
+		"welcomePage.progress.foreground": "#00FF00",
 	},
 	"tokenColors": [
 		{
