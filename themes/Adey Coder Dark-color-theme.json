@@ -84,6 +84,7 @@
 		"list.inactiveSelectionForeground": "#FFFF00",
 		"list.highlightForeground": "#FFFF00",
 		"list.activeSelectionBackground": "#1B331B",
+		"list.dropBackground": "#55BB552F",
 
 		//MiniMap
 		"minimapSlider.background": "#AFFFAF2F",
@@ -143,10 +144,10 @@
 		"statusBar.foreground": "#AFFFAF",
 		"statusBarItem.hoverBackground":"#265426",
 		"statusBarItem.activeBackground": "#55BB55",
-		"statusBar.debuggingBackground": "#55BB55",
 		"statusBar.noFolderBackground":"#152515",
 		"statusBar.noFolderBorder": "#55BB55",
-		"statusBar.debuggingForeground": "#55BB55",
+		"statusBar.debuggingBackground": "#FFFF00",
+		"statusBar.debuggingForeground": "#152515",
 
 		//SETTINGS
 		"settings.headerForeground": "#AFFFAF",
