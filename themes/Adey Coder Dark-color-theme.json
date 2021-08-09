@@ -13,10 +13,10 @@
 		"breadcrumb.focusForeground": "#FFFF00",
 		"breadcrumb.foreground": "#55BB55",
 		//Buttons
-		"button.background": "#55BB55",
+		"button.background": "#265426",
 		"button.foreground": "#DFFFDF",
-		"button.hoverBackground": "#265426",
-		"button.border": "#55BB55",
+		"button.hoverBackground": "#243B24",
+		"button.border": "#265426",
 		"button.secondaryBackground": "#243B24",
 		"button.secondaryForeground": "#55BB55",
 		//Badge
@@ -141,13 +141,15 @@
 		//Status bar
 		"statusBar.background": "#152515",
 		"statusBar.border": "#265426",
-		"statusBar.foreground": "#AFFFAF",
-		"statusBarItem.hoverBackground":"#265426",
+		"statusBar.foreground": "#D5FFD5",
+		"statusBarItem.hoverBackground":"#55BB55",
 		"statusBarItem.activeBackground": "#55BB55",
 		"statusBar.noFolderBackground":"#152515",
 		"statusBar.noFolderBorder": "#55BB55",
 		"statusBar.debuggingBackground": "#FFFF00",
 		"statusBar.debuggingForeground": "#152515",
+		"statusBarItem.errorBackground": "#ff8080",
+		"statusBarItem.errorForeground": "#152515",
 
 		//SETTINGS
 		"settings.headerForeground": "#AFFFAF",
