@@ -20,21 +20,9 @@ This is how it looks the first/initial page of the VS Code.
 
 ![ScreenShot of HTML](./images/Welcome-Page.png)
 
-### HTML
-
-![ScreenShot of HTML](./images/HTML.png)
-
-### CSS
-
-![ScreenShot of CSS](./images/CSS.png)
-
-### JavaScript
-
-![ScreenShot of JavaScript](./images/JS.png)
-
 ### PHP
 
-![ScreenShot of PHP](./images/PHP.png)
+![ScreenShot of PHP](./images/PHP-Dark-theme.png)
 
 Thank your using 🙂
 
