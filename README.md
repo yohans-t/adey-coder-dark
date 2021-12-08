@@ -22,8 +22,14 @@ This is how it looks the first/initial page of the VS Code.
 
 ### PHP and CSS
 
-Preview to show how latest update has syntax highlighting for **PHP** and **CSS**
-![ScreenShot of PHP](./images/screenshot-php-css.png)
+Preview to show how latest update has syntax highlighting for **HTML**,**CSS**,**javaScript** and **PHP** as respectively.
+![ScreenShot of PHP](./images/Theme-HTML.png)
+
+![ScreenShot of PHP](./images/Theme-CSS.png)
+
+![ScreenShot of PHP](./images/Theme-JS.png)
+
+![ScreenShot of PHP](./images/Theme-PHP.png)
 
 Thank your using 🙂
 

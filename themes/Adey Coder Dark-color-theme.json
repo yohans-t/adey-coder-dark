@@ -237,7 +237,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#D5FF00"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 				"storage.type",
 			],
 			"settings": {
-				"foreground": "#FFF"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -303,7 +303,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#FFFB"
 			}
 		},
 		{
@@ -314,20 +314,30 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#6CED6C"
+				"foreground": "#00FF00"
 			}
 		},
 		{
 			"name": "Function, Special Method",
 			"scope": [
-				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#7DF6F6"
+				"foreground": "#FFFF00"
+			}
+		},
+		{
+			"name": "Function, Special Method",
+			"scope": [
+				"entity.name.function",
+				"variable.function",
+				"support.function",
+			],
+			"settings": {
+				"foreground": "#00FF00"
 			}
 		},
 		{
@@ -336,7 +346,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FFC000"
+				"foreground": "#FFFF00"
 			}
 		},
 		{
@@ -407,15 +417,7 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
-			],
-			"settings": {
-				"foreground": "#FFFF00"
-			}
-		},
-		{
-			"name": "Class, Support",
-			"scope": [
+				"support.type.sys-types",
 				"entity.name",
 			],
 			"settings": {
@@ -428,7 +430,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#FFFF00"
 			}
 		},
 		{
@@ -463,7 +465,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFFF00"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -512,7 +514,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#6CED6C"
+				"foreground": "#7DF6F6"
 			}
 		},
 		{
@@ -522,7 +524,7 @@
 				"keyword.control",
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#7DF6F6"
 			}
 		},
 		{
