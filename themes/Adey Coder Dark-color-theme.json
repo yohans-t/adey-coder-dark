@@ -1,6 +1,9 @@
 {
 	"name": "Adey Coder Dark",
 	"type": "dark",
+	"semanticTokenColors": {
+		
+	},
 	"colors": {
 		"activityBar.background": "#121f12",
 		"activityBar.foreground": "#AFFFAF",
@@ -50,13 +53,14 @@
 		"editorWidget.background": "#265426",
 		"editorWidget.foreground": "#AfffAf",
 		"editorWidget.border": "#5B5",
-		"editorSuggestWidget.background": "#245424",
+		"editorSuggestWidget.background": "#243B24",
 		"editorSuggestWidget.border": "#265426",
-		"editorSuggestWidget.foreground": "#AFFFAF",
-		"editorSuggestWidget.selectedBackground": "#1B331B",
-		"editorSuggestWidget.highlightForeground": "#FFF",
-		"editorSuggestWidget.focusHighlightForeground": "#FF0",
-		"editorSuggestWidget.selectedForeground": "#EDEDED",
+		"editorSuggestWidget.foreground": "#EDEDED",
+		"editorSuggestWidget.selectedBackground": "#152515",
+		"editorSuggestWidget.selectedIconForeground": "#6CED6C",
+		"editorSuggestWidget.highlightForeground": "#6CED6C",
+		"editorSuggestWidget.focusHighlightForeground": "#FFFF00",
+		"editorSuggestWidget.selectedForeground": "#FFFFFF",
 
 		// Editor line numbers
 		"editorLineNumber.foreground": "#AFFFAF7F",
@@ -79,7 +83,8 @@
 
 		//Side Bar list
 		"list.hoverBackground": "#1B331B",
-		"list.hoverForeground": "#FFFFFF",
+		"list.hoverForeground": "#EDEDED",
+		"list.focusHighlightForeground": "#ff0000",
 		"list.inactiveSelectionBackground": "#243B24",
 		"list.inactiveSelectionForeground": "#FFFF00",
 		"list.highlightForeground": "#FFFF00",
@@ -142,7 +147,7 @@
 		"statusBar.background": "#121F12",
 		"statusBar.border": "#243B24",
 		"statusBar.foreground": "#D5FFD5",
-		"statusBarItem.hoverBackground":"#55BB55",
+		"statusBarItem.hoverBackground":"#265426",
 		"statusBarItem.activeBackground": "#55BB55",
 		"statusBar.noFolderBackground":"#152515",
 		"statusBar.noFolderBorder": "#55BB55",
@@ -213,7 +218,9 @@
 		"editorGroup.dropBackground": "#AFFFAF2F",
 
 		"textLink.foreground": "#FFFF00",
-		"textLink.activeForeground": "#00FF00",
+		"textLink.activeForeground": "#D5FF00",
+		"editorLink.activeForeground": "#D5FF00",
+		"notificationLink.foreground": "#FFFF00",
 		
 		"widget.shadow": "#AFFFAF20",
 		"welcomePage.progress.foreground": "#00FF00",
