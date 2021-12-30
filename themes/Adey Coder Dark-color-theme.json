@@ -2,7 +2,6 @@
 	"name": "Adey Coder Dark",
 	"type": "dark",
 	"semanticTokenColors": {
-		
 	},
 	"colors": {
 		"activityBar.background": "#121f12",
