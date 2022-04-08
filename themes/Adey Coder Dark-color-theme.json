@@ -182,10 +182,10 @@
 		"settings.focusedRowBackground":"#265426",
 
 		//SCROLLBAR
-		"scrollbarSlider.activeBackground": "#55BB55",
-		"scrollbarSlider.hoverBackground": "#55BB55AF",
-		"scrollbar.shadow": "#00000000",
-		"scrollbarSlider.background": "#AFFFAF5F",
+		"scrollbarSlider.activeBackground": "#3C673C",
+		"scrollbarSlider.hoverBackground": "#3C673C",
+		"scrollbar.shadow": "#0000",
+		"scrollbarSlider.background": "#294629",
 
 		//SymbolIcons
 		"symbolIcon.classForeground": "#00FFFF",
@@ -219,18 +219,19 @@
 		"titleBar.border": "#265426",
 
 		//Tabs
-		"tab.activeBackground": "#265426",
+		"tab.activeBackground": "#294629",
 		"tab.inactiveBackground": "#121F12",
-		"tab.activeBorder": "#00FF00",
-		"tab.activeForeground": "#AFFFAF",
-		"tab.hoverBackground": "#265426",
+		"tab.activeBorder": "#6EBD6E",
+		"tab.activeForeground": "#DEFFDE",
+		"tab.hoverBackground": "#3C673C",
 		"tab.hoverForeground": "#00FF00",
-		"tab.activeModifiedBorder": "#FFFF00",
-		"tab.inactiveModifiedBorder": "#FFFF00B0",
-		"tab.inactiveForeground": "#55BB55",
+		"tab.activeModifiedBorder": "#7ED77E",
+		"tab.inactiveModifiedBorder": "#7ED77EB0",
+		"tab.inactiveForeground": "#6EBD6E",
 		"tab.unfocusedActiveBackground": "#152515",
-		"editorGroupHeader.tabsBackground":"#121F15",
-		"editorGroup.dropBackground": "#AFFFAF2F",
+		"editorGroupHeader.tabsBorder": "#294629",
+		"editorGroupHeader.tabsBackground":"#121F12",
+		"editorGroup.dropBackground": "#3C673C",
 
 		"textLink.foreground": "#FFFF00",
 		"textLink.activeForeground": "#D5FF00",
@@ -238,7 +239,7 @@
 		"notificationLink.foreground": "#FFFF00",
 		
 		"widget.shadow": "#AFFFAF20",
-		"welcomePage.progress.foreground": "#00FF00",
+		"welcomePage.progress.foreground": "#6EBD6E",
 	},
 	"tokenColors": [
 		{
