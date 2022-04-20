@@ -139,9 +139,9 @@
 		"peekViewResult.selectionBackground":"#121F12",
 		
 		//Quick Input Menu
-		"quickInputList.focusBackground":"#152515",
-		"quickInput.background": "#265426",
-		"quickInput.foreground": "#AFFFAF",
+		"quickInputList.focusBackground":"#121F12",
+		"quickInput.background": "#294629",
+		"quickInput.foreground": "#DEFFDE",
 		
 		//Side Bar
 		"sideBarTitle.foreground": "#DEFFDE",
