@@ -1,7 +1,10 @@
 {
-	"name": "Adey Coder Dark",
+	"name": "Adey Coder",
 	"type": "dark",
 	"semanticTokenColors": {
+		"class": "#ff0000",
+		"variable": "#ff0000",
+		"string": "#ff0000"
 	},
 	"colors": {
 		// done
@@ -26,8 +29,8 @@
 		"button.secondaryForeground": "#55BB55",
 
 		//Badge
-		"badge.background": "#265426",
-		"badge.foreground": "#FFFF00",
+		"badge.background": "#294629",
+		"badge.foreground": "#7ED77E",
 
 		"dropdown.background": "#294629",
 		"dropdown.border": "#26542600",
@@ -55,7 +58,7 @@
 		"editor.selectionBackground": "#294629",
 		"editor.selectionForeground": "#FFFFFF",
 		"editorWidget.background": "#294629",
-		"editorWidget.foreground": "#7ED77E",
+		"editorWidget.foreground": "#DEFFDE",
 		"editorWidget.border": "#3C673C",
 		"editorSuggestWidget.background": "#294629",
 		"editorSuggestWidget.border": "#294629",
@@ -72,19 +75,12 @@
 		"editorLineNumber.activeForeground": "#6EBD6E",
 		"editorGutter.background": "#121F12",
 		"editor.lineHighlightBackground": "#294629",
-		
-		//global
-		"focusBorder": "#3C673C",
-		"editorWhitespace.foreground": "#265426",
-		"selection.background": "#3C673C",
-		
-		"icon.foreground": "#DEFFDE",
 
 		//Input Fields
 		"input.background": "#294629",
 		"input.foreground": "#7ED77E",
 		"input.placeholderForeground": "#7ED77E77",
-		"inputOption.activeBorder": "#3C673C",
+		"inputOption.activeBorder": "#3C673C00",
 		"inputOption.activeBackground": "#294629",
 
 		//Side Bar list
@@ -95,7 +91,6 @@
 		"list.inactiveSelectionForeground": "#DEFFDE",
 		"list.hoverBackground": "#3C673C",
 		"list.hoverForeground": "#FFFFFF",
-		"list.focusHighlightForeground": "#ff0000",
 		"list.highlightForeground": "#FFFF00",
 		"list.dropBackground": "#55BB552F",
 
@@ -172,14 +167,16 @@
 		"statusBarItem.errorForeground": "#152515",
 
 		//SETTINGS
-		"settings.headerForeground": "#AFFFAF",
-		"settings.numberInputBackground": "#243B24",
-		"settings.modifiedItemIndicator": "#FFFF00",
+		"settings.headerForeground": "#DEFFDE",
+		"settings.textInputForeground": "#DEFFDE",
+		"settings.numberInputForeground": "#DEFFDE",
+		"settings.numberInputBackground": "#294629",
+		"settings.modifiedItemIndicator": "#7ED77E",
 		"settings.dropdownBorder": "#55BB5500",
-		"settings.dropdownBackground": "#243B24",
-		"settings.dropdownListBorder": "#243B24",
-		"settings.rowHoverBackground":"#265426",
-		"settings.focusedRowBackground":"#265426",
+		"settings.dropdownBackground": "#294629",
+		"settings.dropdownListBorder": "#29462900",
+		"settings.rowHoverBackground":"#3C673C",
+		"settings.focusedRowBackground":"#3C673C",
 
 		//SCROLLBAR
 		"scrollbarSlider.activeBackground": "#3C673C",
@@ -214,9 +211,12 @@
 
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
-		"titleBar.activeForeground": "#AFFFAF",
-		"titleBar.inactiveForeground": "#AfffAf54",
-		"titleBar.border": "#265426",
+		"titleBar.activeForeground": "#DEFFDE",
+		"titleBar.inactiveForeground": "#DEFFDE77",
+		"titleBar.border": "#294629",
+
+		//Test icons - experiment
+		"testing.iconErrored": "#ff0000",
 
 		//Tabs
 		"tab.activeBackground": "#294629",
@@ -224,7 +224,7 @@
 		"tab.activeBorder": "#6EBD6E",
 		"tab.activeForeground": "#DEFFDE",
 		"tab.hoverBackground": "#3C673C",
-		"tab.hoverForeground": "#00FF00",
+		"tab.hoverForeground": "#D5FF00",
 		"tab.activeModifiedBorder": "#7ED77E",
 		"tab.inactiveModifiedBorder": "#7ED77EB0",
 		"tab.inactiveForeground": "#6EBD6E",
@@ -232,13 +232,19 @@
 		"editorGroupHeader.tabsBorder": "#294629",
 		"editorGroupHeader.tabsBackground":"#121F12",
 		"editorGroup.dropBackground": "#3C673C",
-
-		"textLink.foreground": "#FFFF00",
+		
+		//global
+		"focusBorder": "#3C673C",
+		"editorWhitespace.foreground": "#265426",
+		"selection.background": "#3C673C",
+		"textLink.foreground": "#7ED77E",
 		"textLink.activeForeground": "#D5FF00",
 		"editorLink.activeForeground": "#D5FF00",
-		"notificationLink.foreground": "#FFFF00",
+		"notificationLink.foreground": "#7ED77E",
 		
-		"widget.shadow": "#AFFFAF20",
+		"icon.foreground": "#DEFFDE",		
+		
+		"widget.shadow": "#AFFFAF00",
 		"welcomePage.progress.foreground": "#6EBD6E",
 	},
 	"tokenColors": [
