@@ -19,6 +19,7 @@ in this update make a major changes to color schema and syntax highlighting for 
 ## [0.4.6]
 
 make a major changes to color schema
+
 ## [0.4.1]
 
 - Update to Syntax Highlight colors of PHP, CSS and JavaScript
