@@ -2,8 +2,6 @@
 
 All notable changes to the "adey-coder-dark" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [0.5.0]
 
 in this update make a major changes to color schema and syntax highlighting for the following
