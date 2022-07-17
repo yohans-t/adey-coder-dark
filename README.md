@@ -35,18 +35,15 @@ Preview of theme on **HTML**, **CSS**, **JavaScript** and **PHP** and **Welcome 
 
 This is how it looks the first/initial page of the VS Code.
 
-![ScreenShot of Welcome Page](./images/Welcome-Page.png)
+![ScreenShot of Welcome Page](./images/welcome.png)
 
-### PHP and CSS
+### Preview
 
 Preview to show how latest update has syntax highlighting for **HTML**,**CSS**,**javaScript** and **PHP** as respectively.
-![ScreenShot of HTML](./images/Theme-HTML.png)
 
-![ScreenShot of CSS](./images/Theme-CSS.png)
+![ScreenShot of CSS](./images/code.png)
 
-![ScreenShot of JS](./images/Theme-JS.png)
-
-![ScreenShot of PHP](./images/Theme-PHP.png)
+![ScreenShot of JS](./images/js-code.png)
 
 Thank your using 🙂
 
