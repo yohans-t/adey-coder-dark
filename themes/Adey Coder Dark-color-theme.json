@@ -6,7 +6,7 @@
 		"class": "#ffFFFF",
 		"variable": "#D5FF00",
 		"*.local": "#D5ff00",
-		"property":"#7DF6F6", 
+		"property":"#60FFCD", 
 		"string": "#FFFFFF",
 		"*.declaration": "#FFFFFF",
 		"function":"#00FF00",
@@ -48,7 +48,7 @@
 
 		//DEBUG CONSOLE
 		"debugToolBar.background": "#265426",
-		"debugConsole.sourceForeground": "#ff0000",
+		"debugConsole.sourceForeground": "#FFFF00",
 
 		//Top Menu - done
 		"menu.background": "#294629",
@@ -221,7 +221,7 @@
 		"symbolIcon.keywordForeground": "#FFB0EF",
 		"symbolIcon.methodForeground": "#FFB0EF",
 		"symbolIcon.propertyForeground": "#AFFFAF",
-		"symbolIcon.snippetForeground": "#7DF6F6",
+		"symbolIcon.snippetForeground": "#60FFCD",
 		"symbolIcon.variableForeground": "#00FF00",
 
 		//default set
@@ -245,7 +245,7 @@
 		"titleBar.border": "#294629",
 
 		//Test icons - experiment
-		"testing.iconErrored": "#ff3c00",
+		"testing.iconErrored": "#ff00ff",
 
 		//Tabs
 		"tab.activeBackground": "#294629",
@@ -267,8 +267,8 @@
 		"editorWhitespace.foreground": "#265426",
 		"selection.background": "#3C673C",
 		"textLink.foreground": "#7ED77E",
-		"textLink.activeForeground": "#28F4E0",
-		"editorLink.activeForeground": "#28F4E0",
+		"textLink.activeForeground": "#FFFFFF",
+		"editorLink.activeForeground": "#FFFFFF",
 		"notificationLink.foreground": "#7ED77E",
 		
 		"icon.foreground": "#DEFFDE",		
@@ -592,7 +592,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#7DF6F6"
+				"foreground": "#60FFCD"
 			}
 		},
 		{
@@ -602,7 +602,7 @@
 				"keyword.control",
 			],
 			"settings": {
-				"foreground": "#7DF6F6"
+				"foreground": "#60FFCD"
 			}
 		},
 		{
