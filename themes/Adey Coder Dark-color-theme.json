@@ -6,7 +6,7 @@
 		"class": "#ffFFFF",
 		"variable": "#D5FF00",
 		"*.local": "#D5ff00",
-		"property":"#60FFCD", 
+		"property":"#20FFCD", 
 		"string": "#FFFFFF",
 		"*.declaration": "#FFFFFF",
 		"function":"#00FF00",
@@ -214,14 +214,14 @@
 		"scrollbarSlider.background": "#294629",
 
 		//SymbolIcons
-		"symbolIcon.classForeground": "#00FFFF",
+		"symbolIcon.classForeground": "#28F4E0",
 		"symbolIcon.constantForeground": "#FFFF00",
 		"symbolIcon.fieldForeground": "#6CED6C",
 		"symbolIcon.functionForeground": "#D5FF00",
 		"symbolIcon.keywordForeground": "#FFB0EF",
 		"symbolIcon.methodForeground": "#FFB0EF",
 		"symbolIcon.propertyForeground": "#AFFFAF",
-		"symbolIcon.snippetForeground": "#60FFCD",
+		"symbolIcon.snippetForeground": "#20FFCD",
 		"symbolIcon.variableForeground": "#00FF00",
 
 		//default set
@@ -295,7 +295,8 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"meta.definition.type.body.swift"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
@@ -328,6 +329,15 @@
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword.type.go",
+			],
+			"settings": {
+				"foreground": "#F4dA16"
 			}
 		},
 		{
@@ -495,12 +505,17 @@
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
+				"storage.type.string.go",
+				"storage.type.numeric.go",
+				"support.type.primitive.ts",
+				"support.type.swift",
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#FFFFFF"
 			}
 		},
+
 		{
 			"name": "CSS Class and Support",
 			"scope": [
@@ -513,6 +528,15 @@
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Source go",
+			"scope": [
+				"source.go",
+			],
+			"settings": {
+				"foreground": "#D5FF00"
 			}
 		},
 		{
@@ -592,7 +616,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#60FFCD"
+				"foreground": "#20FFCD"
 			}
 		},
 		{
@@ -602,7 +626,7 @@
 				"keyword.control",
 			],
 			"settings": {
-				"foreground": "#60FFCD"
+				"foreground": "#20FFCD"
 			}
 		},
 		{
