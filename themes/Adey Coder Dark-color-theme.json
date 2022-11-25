@@ -49,6 +49,9 @@
 		//DEBUG CONSOLE
 		"debugToolBar.background": "#265426",
 		"debugConsole.sourceForeground": "#FFFF00",
+		"debugConsole.errorForeground":"#FF6060",
+		"debugConsole.infoForeground": "#28F4E0",
+		"debugConsole.warningForeground": "#F4dA16",
 
 		//Top Menu - done
 		"menu.background": "#294629",
