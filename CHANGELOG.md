@@ -17,7 +17,7 @@ make a major changes to color schema
 
 ## [0.4.0]
 
-in this update make a major changes to color schema and syntax highlighting for the following
+in this update make a changes to color schema and syntax highlighting from the intial draft theme. a changes are made to the following sections
 
 - terminal/panel
 - list (sidebar, menu,etc...)
