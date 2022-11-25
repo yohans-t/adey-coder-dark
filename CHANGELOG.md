@@ -2,7 +2,20 @@
 
 All notable changes to the "adey-coder-dark" extension will be documented in this file.
 
-## [0.5.0]
+
+## [0.4.7]
+
+Make a changes to debug console.
+
+## [0.4.6]
+
+make a major changes to color schema
+
+## [0.4.1]
+
+- Update to Syntax Highlight colors of PHP, CSS and JavaScript
+
+## [0.4.0]
 
 in this update make a major changes to color schema and syntax highlighting for the following
 
@@ -13,14 +26,6 @@ in this update make a major changes to color schema and syntax highlighting for 
 - suggestion list
 - Green tone syntax highlighting
 - nice icons colors
-
-## [0.4.6]
-
-make a major changes to color schema
-
-## [0.4.1]
-
-- Update to Syntax Highlight colors of PHP, CSS and JavaScript
 
 ## [Unreleased]
 
