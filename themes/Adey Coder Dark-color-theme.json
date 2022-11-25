@@ -48,20 +48,10 @@
 
 		//DEBUG CONSOLE
 		"debugToolBar.background": "#265426",
-		"debugConsole.sourceForeground": "#FFFF00",
-		"debugConsole.errorForeground":"#FF6060",
-		"debugConsole.infoForeground": "#28F4E0",
+		"debugConsole.sourceForeground": "#D5FF00",
+		"debugConsole.errorForeground":"#ff9494",
+		"debugConsole.infoForeground": "#FFFFFF",
 		"debugConsole.warningForeground": "#F4dA16",
-
-		//Top Menu - done
-		"menu.background": "#294629",
-		"menu.foreground": "#7ED77E",
-		"menu.border": "#121F12",
-		"menu.selectionBackground": "#121F12",
-		"menu.selectionForeground": "#DEFFDE",
-		"menu.separatorBackground":"#3C673C",
-		"menubar.selectionBackground": "#294629",
-		"menubar.selectionForeground": "#DEFFDE",
 
 		//Edutor Section
 		"editor.background": "#121F12",
@@ -124,6 +114,16 @@
 		"list.highlightForeground": "#FFFF00",
 		"list.dropBackground": "#55BB552F",
 
+		//Top Menu - done
+		"menu.background": "#294629",
+		"menu.foreground": "#7ED77E",
+		"menu.border": "#121F12",
+		"menu.selectionBackground": "#121F12",
+		"menu.selectionForeground": "#DEFFDE",
+		"menu.separatorBackground":"#3C673C",
+		"menubar.selectionBackground": "#294629",
+		"menubar.selectionForeground": "#DEFFDE",
+
 		//MiniMap
 		"minimapSlider.background": "#29462955",
 		"minimapSlider.activeBackground": "#3C673C55",
@@ -149,12 +149,6 @@
 		"panelTitle.activeBorder": "#DEFFDE",
 		"panelTitle.inactiveForeground": "#6EBD6E",
 		"panel.background": "#294629",
-		"terminal.background": "#294629",
-		"terminal.foreground": "#DEFFDE",
-		"terminal.selectionBackground": "#121F12",
-		"terminal.border": "#3C673C",
-		"terminalCursor.foreground": "#7ED77E",
-		"terminalCursor.background": "#7ED77E",
 
 		//PeekView Editor
 		"peekViewTitle.background": "#294629",
@@ -241,6 +235,14 @@
 		"symbolIcon.keyForeground": "#00ff00",
 		"symbolIcon.operatorForeground": "#00ff00",
 
+		//Terminal
+		"terminal.background": "#294629",
+		"terminal.foreground": "#DEFFDE",
+		"terminal.selectionBackground": "#121F12",
+		"terminal.border": "#3C673C",
+		"terminalCursor.foreground": "#7ED77E",
+		"terminalCursor.background": "#7ED77E",
+
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
 		"titleBar.activeForeground": "#DEFFDE",
@@ -248,7 +250,7 @@
 		"titleBar.border": "#294629",
 
 		//Test icons - experiment
-		"testing.iconErrored": "#ff00ff",
+		"testing.iconErrored": "#ff0000",
 
 		//Tabs
 		"tab.activeBackground": "#294629",
