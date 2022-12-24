@@ -18,7 +18,7 @@ make a major changes to color schema
 ## [0.4.8]
 
 - Add color for bracket pairs
-- 
+- editor and other error colors
 
 ## [0.4.0]
 
