@@ -64,22 +64,33 @@
 		"editorWidget.background": "#294629",
 		"editorWidget.foreground": "#DEFFDE",
 		"editorWidget.border": "#3C673C",
+		"editorCursor.background": "#7ED77E",
+		"editorCursor.foreground":"#7ED77E",
+
 		"editorSuggestWidget.background": "#294629",
 		"editorSuggestWidget.border": "#121F12",
 		"editorSuggestWidget.foreground": "#7ED77E",
-		"editorCursor.background": "#7ED77E",
-		"editorCursor.foreground":"#7ED77E",
 		"editorSuggestWidget.selectedBackground": "#121F12",
 		"editorSuggestWidget.selectedIconForeground": "#6CED6C",
 		"editorSuggestWidget.highlightForeground": "#FFFF00",
 		"editorSuggestWidget.focusHighlightForeground": "#FFFF00",
 		"editorSuggestWidget.selectedForeground": "#DEFFDE",
+		
+		"editorError.foreground": "#ff9494",
+		"editorWarning.foreground": "#F4dA16",
 
 		// Editor line numbers
 		"editorLineNumber.foreground": "#3C673C",
 		"editorLineNumber.activeForeground": "#6EBD6E",
 		"editorGutter.background": "#121F12",
 		"editor.lineHighlightBackground": "#294629",
+
+		"editorBracketHighlight.foreground1": "#D5FF00",
+		"editorBracketHighlight.foreground2": "#20FFAD",
+		"editorBracketHighlight.foreground3": "#FFFF00",
+		"editorBracketHighlight.foreground4": "#FFB0EF",
+		"editorBracketHighlight.foreground5": "#7ED77E",
+		"editorBracketHighlight.foreground6": "#00FF00",
 
 		//git source control
 		"gitDecoration.modifiedResourceForeground": "#D5FF00",
