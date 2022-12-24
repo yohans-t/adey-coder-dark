@@ -2,6 +2,10 @@
 
 All notable changes to the "adey-coder-dark" extension will be documented in this file.
 
+## [0.4.8]
+
+- Add color for bracket pairs
+- editor and other error colors
 
 ## [0.4.7]
 
@@ -14,11 +18,6 @@ make a major changes to color schema
 ## [0.4.1]
 
 - Update to Syntax Highlight colors of PHP, CSS and JavaScript
-
-## [0.4.8]
-
-- Add color for bracket pairs
-- editor and other error colors
 
 ## [0.4.0]
 
