@@ -53,7 +53,7 @@
 		"debugConsole.infoForeground": "#FFFFFF",
 		"debugConsole.warningForeground": "#F4dA16",
 
-		//Edutor Section
+		//Editor Section
 		"editor.background": "#121F12",
 		"editor.foreground": "#FFFFFF",
 		"editor.findMatchBackground": "#121F12",
@@ -86,11 +86,19 @@
 		"editor.lineHighlightBackground": "#294629",
 
 		"editorBracketHighlight.foreground1": "#D5FF00",
-		"editorBracketHighlight.foreground2": "#20FFAD",
-		"editorBracketHighlight.foreground3": "#FFFF00",
+		"editorBracketHighlight.foreground2": "#F4dA16",
+		"editorBracketHighlight.foreground3": "#7ED77E",
 		"editorBracketHighlight.foreground4": "#FFB0EF",
-		"editorBracketHighlight.foreground5": "#7ED77E",
-		"editorBracketHighlight.foreground6": "#00FF00",
+		"editorBracketHighlight.foreground5": "#20FFAD",
+		"editorBracketHighlight.foreground6": "#FF81D7",
+		"editorBracketMatch.background": "#294629",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#FF6060",
+		"editorBracketPairGuide.activeBackground1": "#D5FF00",
+		"editorBracketPairGuide.activeBackground2": "#F4dA16",
+		"editorBracketPairGuide.activeBackground3": "#7ED77E",
+		"editorBracketPairGuide.activeBackground4": "#FFB0EF",
+		"editorBracketPairGuide.activeBackground5": "#20FFAD",
+		"editorBracketPairGuide.activeBackground6": "#FF81D7",
 
 		//git source control
 		"gitDecoration.modifiedResourceForeground": "#D5FF00",
