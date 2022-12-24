@@ -103,7 +103,8 @@
 		//git source control
 		"gitDecoration.modifiedResourceForeground": "#D5FF00",
 		"gitDecoration.untrackedResourceForeground": "#28F4E0",
-		"gitDecoration.deletedResourceForeground": "#ff6060",
+		"gitDecoration.deletedResourceForeground": "#ff8080",
+		
 		//! need work
 		// "gitDecoration.renamedResourceForeground": "#ff0000",
 		// "gitDecoration.conflictingResourceForeground": "#ff0000",
