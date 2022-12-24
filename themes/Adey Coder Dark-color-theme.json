@@ -76,7 +76,7 @@
 		"editorSuggestWidget.focusHighlightForeground": "#FFFF00",
 		"editorSuggestWidget.selectedForeground": "#DEFFDE",
 		
-		"editorError.foreground": "#ff9494",
+		"editorError.foreground": "#ff8080",
 		"editorWarning.foreground": "#F4dA16",
 
 		// Editor line numbers
@@ -159,7 +159,7 @@
 		"notifications.border": "#121F12",
 		"notificationsWarningIcon.foreground": "#ff0000",
 		"notificationsInfoIcon.foreground": "#FFFF00",
-		"notificationsErrorIcon.foreground": "#FF9999",
+		"notificationsErrorIcon.foreground": "#ff8080",
 
 		//Progressbar
 		"progressBar.background": "#DEFFDE",
