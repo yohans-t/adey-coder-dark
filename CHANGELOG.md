@@ -15,6 +15,11 @@ make a major changes to color schema
 
 - Update to Syntax Highlight colors of PHP, CSS and JavaScript
 
+## [0.4.8]
+
+- Add color for bracket pairs
+- 
+
 ## [0.4.0]
 
 in this update make a changes to color schema and syntax highlighting from the intial draft theme. a changes are made to the following sections

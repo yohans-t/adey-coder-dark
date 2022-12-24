@@ -121,6 +121,8 @@
 		"input.placeholderForeground": "#7ED77E77",
 		"inputOption.activeBorder": "#3C673C00",
 		"inputOption.activeBackground": "#294629",
+		"inputValidation.errorForeground": "#FF8080",
+		"inputValidation.errorBorder": "#FF8080",
 
 		//Side Bar list
 		"list.activeSelectionBackground": "#294629",
@@ -150,6 +152,7 @@
 		"minimapSlider.activeBackground": "#3C673C55",
 		"minimap.background": "#121F12",
 		"minimapSlider.hoverBackground": "#29462955",
+		"minimap.errorHighlight": "#FF8080",
 		
 		//notifications
 		"notifications.background": "#294629",
@@ -265,6 +268,8 @@
 		"terminal.border": "#3C673C",
 		"terminalCursor.foreground": "#7ED77E",
 		"terminalCursor.background": "#7ED77E",
+
+		"terminal.ansiBrightYellow": "#ff0000",
 
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
