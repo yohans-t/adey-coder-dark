@@ -113,6 +113,8 @@
 		"list.hoverForeground": "#FFFFFF",
 		"list.highlightForeground": "#FFFF00",
 		"list.dropBackground": "#55BB552F",
+		
+		
 
 		//Top Menu - done
 		"menu.background": "#294629",
@@ -163,6 +165,8 @@
 		"peekViewResult.selectionForeground": "#DEFFDE",
 		"peekViewResult.fileForeground": "#7ED77E",
 		"peekViewResult.selectionBackground":"#121F12",
+
+		"pickerGroup.foreground": "#7ED77E",
 		
 		//Quick Input Menu
 		"quickInputList.focusBackground":"#121F12",
