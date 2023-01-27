@@ -517,6 +517,19 @@
 				"foreground": "#FFFFFF"
 			}
 		},
+		
+		{
+			"name": "String Qouted HTML and CSS",
+			"scope": [
+				"string.quoted.double.html",
+				"string.quoted.single.html",
+				"string.quoted.double.css",
+				"string.quoted.single.css"
+			],
+			"settings": {
+				"foreground": "#B3FEA7"
+			}
+		},
 		{
 			"name": "Class, Support",
 			"scope": [
@@ -633,6 +646,16 @@
 				"foreground": "#FFFF00"
 			}
 		},
+		
+		{
+			"name": "Attributes",
+			"scope": [
+				"entity.other.attribute-name.pseudo-class.css"
+			],
+			"settings": {
+				"foreground": "#F4dA16"
+			}
+		},
 		{
 			"name": "HTML Attributes",
 			"scope": [
@@ -641,7 +664,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#FFFF00"
 			}
 		},
 		{
@@ -650,7 +673,17 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#20FFCD"
+				"foreground": "#00FF00"
+			}
+		},
+		
+		{
+			"name": "CSS Tag Selector",
+			"scope": [
+				"entity.name.tag.css"
+			],
+			"settings": {
+				"foreground": "#D5FF00"
 			}
 		},
 		{
