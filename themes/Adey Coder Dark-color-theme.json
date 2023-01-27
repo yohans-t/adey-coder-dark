@@ -455,7 +455,8 @@
 				"meta.object-literal.key.js",
 				"variable.other.member.c",
 				"variable.other.property.ts",
-				"variable.other.object.property.js"
+				"variable.other.object.property.js",
+				"entity.name.variable.parameter.php"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
