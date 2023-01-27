@@ -396,7 +396,8 @@
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution",
-				"keyword.operator.class.php"
+				"keyword.operator.class.php",
+				"storage.type.function.arrow.js"
 			],
 			"settings": {
 				"foreground": "#FFB0EF"
