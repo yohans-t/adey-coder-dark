@@ -2,6 +2,11 @@
 
 All notable changes to the "adey-coder-dark" extension will be documented in this file.
 
+## [0.5.0]
+
+- New Logo for Theme
+- Make some changes for sysntax highlighting for languages
+
 ## [0.4.8]
 
 - Add color for bracket pairs
