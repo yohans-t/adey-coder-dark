@@ -1,7 +1,7 @@
 {
 	"name": "Adey Coder",
 	"type": "dark",
-	"semanticHighlighting": true,
+	"semanticHighlighting": false,
 	"semanticTokenColors": {
 		"class": "#F4dA16",
 		"variable": "#00FF00",
@@ -453,7 +453,8 @@
 				"variable.other.property.js",
 				"meta.object-literal.key.js",
 				"variable.other.member.c",
-				"variable.other.property.ts"
+				"variable.other.property.ts",
+				"variable.other.object.property.js"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
@@ -462,10 +463,10 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"variable.other.object.property.js",
+				"entity.name.function.js",
 			],
 			"settings": {
-				"foreground": "#28F4E0"
+				"foreground": "#FFFF00"
 			}
 		},
 		{
