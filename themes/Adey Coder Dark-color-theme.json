@@ -1,17 +1,17 @@
 {
 	"name": "Adey Coder",
 	"type": "dark",
-	"semanticHighlighting": false,
+	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"class": "#ffFFFF",
-		"variable": "#D5FF00",
+		"class": "#F4dA16",
+		"variable": "#00FF00",
 		"*.local": "#D5ff00",
 		"property":"#20FFCD", 
 		"string": "#FFFFFF",
-		"*.declaration": "#FFFFFF",
+		"*.declaration": "#F4dA16",
 		"function":"#00FF00",
 		"*.deprecated": "#ff9999",
-		"operator": "#ff0000"
+		"operator": "#FF81D7"
 	},
 	"colors": {
 		// done
@@ -330,16 +330,20 @@
 			"scope": [
 				"variable",
 				"string constant.other.placeholder",
-				"meta.definition.type.body.swift"
+				"meta.definition.type.body.swift",
+				"meta.block variable.other",
+				"meta.item-access.python"
 			],
 			"settings": {
-				"foreground": "#D5FF00"
+				"foreground": "#00FF00"
 			}
 		},
 		{
 			"name": "Colors",
 			"scope": [
-				"constant.other.color"
+				"constant.other.color",
+				"meta.function-call.js",
+				"meta.method.declaration.js"
 			],
 			"settings": {
 				"foreground": "#ffffff"
@@ -356,32 +360,29 @@
 			}
 		},
 		{
+			"name": "Storage Modifier",
+			"scope": [
+				"storage.modifier",
+				"storage.modifier.java",
+				"storage.type.js",
+				"keyword.control",
+				"keyword.type.go",
+				"keyword.other.rust"
+			],
+			"settings": {
+				"foreground": "#F4dA16"
+			}
+		},
+		{
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
 				"storage.type",
+				"meta.class.identifier.java",
+				"meta.class.java"
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
-			}
-		},
-		{
-			"name": "Keyword, Storage",
-			"scope": [
-				"keyword.type.go",
-			],
-			"settings": {
-				"foreground": "#F4dA16"
-			}
-		},
-		{
-			"name": "Storage Modifier",
-			"scope": [
-				"storage.modifier",
-				"storage.type.js",
-			],
-			"settings": {
-				"foreground": "#F4dA16"
 			}
 		},
 		{
@@ -394,7 +395,8 @@
 				"punctuation.separator.inheritance.php",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"keyword.operator.class.php"
 			],
 			"settings": {
 				"foreground": "#FFB0EF"
@@ -438,7 +440,8 @@
 			"scope": [
 				"entity.name.function",
 				"variable.function",
-				"support.function",
+				"support.function",	
+				"meta.function-call"
 			],
 			"settings": {
 				"foreground": "#00FF00"
@@ -447,7 +450,10 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"meta.block variable.other"
+				"variable.other.property.js",
+				"meta.object-literal.key.js",
+				"variable.other.member.c",
+				"variable.other.property.ts"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
@@ -460,15 +466,6 @@
 			],
 			"settings": {
 				"foreground": "#28F4E0"
-			}
-		},
-		{
-			"name": "Block Level Variables",
-			"scope": [
-				"variable.other.property.js"
-			],
-			"settings": {
-				"foreground": "#00ff00"
 			}
 		},
 		{
@@ -493,7 +490,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#6CED6C"
+				"foreground": "#00FF00"
 			}
 		},
 		{
@@ -533,7 +530,7 @@
 				"entity.name",
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#00FF00"
 			}
 		},
 		{
@@ -544,6 +541,9 @@
 				"storage.type.numeric.go",
 				"support.type.primitive.ts",
 				"support.type.swift",
+				"keyword.other.type.php",
+				"keyword.other.fn.rust",
+				"entity.name.type.rust"
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
@@ -657,7 +657,6 @@
 			"name": "CSS ID's",
 			"scope": [
 				"source.sass keyword.control",
-				"keyword.control",
 			],
 			"settings": {
 				"foreground": "#20FFCD"
