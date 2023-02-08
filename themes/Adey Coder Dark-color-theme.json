@@ -270,7 +270,11 @@
 		"terminalCursor.foreground": "#7ED77E",
 		"terminalCursor.background": "#7ED77E",
 
-		"terminal.ansiBrightYellow": "#F0FF57",
+		"terminal.ansiYellow": "#F0FF57",
+		"terminal.ansiGreen": "#6BFF6B",
+		"terminal.ansiBlue": "#5060ff",
+		"terminal.ansiCyan": "#59ffff",
+		"terminal.ansiRed": "#ff7776",
 
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
