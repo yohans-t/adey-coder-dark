@@ -369,7 +369,9 @@
 				"keyword.type.go",
 				"keyword.other.rust",
 				"keyword.other.new",
-				"keyword.operator.new"
+				"keyword.operator.new",
+				"storage.type.function.python",
+				"keyword.other.declaration-specifier.swift"
 			],
 			"settings": {
 				"foreground": "#F4dA16"
@@ -444,7 +446,8 @@
 				"entity.name.function",
 				"variable.function",
 				"support.function",	
-				"meta.function-call"
+				"meta.function-call",
+				"entity.name.function.js"
 			],
 			"settings": {
 				"foreground": "#00FF00"
@@ -459,7 +462,9 @@
 				"variable.other.property.ts",
 				"variable.other.object.property.js",
 				"entity.name.variable.parameter.php",
-				"variable.other.property.php"
+				"variable.other.property.php",
+				"variable.other.object.property.java",
+				"variable.other.swift"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
@@ -468,10 +473,10 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"entity.name.function.js",
+				"meta.block.js entity.name.function.js"
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#FFD476"
 			}
 		},
 		{
