@@ -72,8 +72,8 @@
 		"editorSuggestWidget.foreground": "#7ED77E",
 		"editorSuggestWidget.selectedBackground": "#121F12",
 		"editorSuggestWidget.selectedIconForeground": "#6CED6C",
-		"editorSuggestWidget.highlightForeground": "#FFFF00",
-		"editorSuggestWidget.focusHighlightForeground": "#FFFF00",
+		"editorSuggestWidget.highlightForeground": "#F0FF57",
+		"editorSuggestWidget.focusHighlightForeground": "#F0FF57",
 		"editorSuggestWidget.selectedForeground": "#DEFFDE",
 		
 		"editorError.foreground": "#ff8080",
@@ -133,7 +133,7 @@
 		"list.inactiveSelectionForeground": "#DEFFDE",
 		"list.hoverBackground": "#3C673C",
 		"list.hoverForeground": "#FFFFFF",
-		"list.highlightForeground": "#FFFF00",
+		"list.highlightForeground": "#F0FF57",
 		"list.dropBackground": "#55BB552F",
 		
 		
@@ -162,7 +162,7 @@
 		"notificationCenterHeader.foreground": "#7ED77E",
 		"notifications.border": "#121F12",
 		"notificationsWarningIcon.foreground": "#ff0000",
-		"notificationsInfoIcon.foreground": "#FFFF00",
+		"notificationsInfoIcon.foreground": "#F0FF57",
 		"notificationsErrorIcon.foreground": "#ff8080",
 
 		//Progressbar
@@ -239,7 +239,7 @@
 
 		//SymbolIcons
 		"symbolIcon.classForeground": "#28F4E0",
-		"symbolIcon.constantForeground": "#FFFF00",
+		"symbolIcon.constantForeground": "#F0FF57",
 		"symbolIcon.fieldForeground": "#6CED6C",
 		"symbolIcon.functionForeground": "#D5FF00",
 		"symbolIcon.keywordForeground": "#FFB0EF",
@@ -270,7 +270,7 @@
 		"terminalCursor.foreground": "#7ED77E",
 		"terminalCursor.background": "#7ED77E",
 
-		"terminal.ansiBrightYellow": "#ffff00",
+		"terminal.ansiBrightYellow": "#F0FF57",
 
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
@@ -437,7 +437,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#F0FF57"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#F0FF57"
 			}
 		},
 		{
@@ -654,7 +654,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FFFF00"
+				"foreground": "#F0FF57"
 			}
 		},
 		
@@ -675,7 +675,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFFF00"
+				"foreground": "#F0FF57"
 			}
 		},
 		{
