@@ -367,7 +367,9 @@
 				"storage.type.js",
 				"keyword.control",
 				"keyword.type.go",
-				"keyword.other.rust"
+				"keyword.other.rust",
+				"keyword.other.new",
+				"keyword.operator.new"
 			],
 			"settings": {
 				"foreground": "#F4dA16"
@@ -456,7 +458,8 @@
 				"variable.other.member.c",
 				"variable.other.property.ts",
 				"variable.other.object.property.js",
-				"entity.name.variable.parameter.php"
+				"entity.name.variable.parameter.php",
+				"variable.other.property.php"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
@@ -607,7 +610,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFFFFF"
+				"foreground": "#6BFF6B"
 			}
 		},
 		{
