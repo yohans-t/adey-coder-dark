@@ -5,8 +5,8 @@
 	"semanticTokenColors": {
 		"class": "#FFD476",
 		"variable": "#6BFF6B",
-		"*.local": "#D5ff00",
-		"property":"#20FFCD", 
+		"*.local": "#6BFF6B",
+		"property":"#D5FF00", 
 		"string": "#FFFFFF",
 		"*.declaration": "#FFD476",
 		"function":"#6BFF6B",
@@ -272,9 +272,10 @@
 
 		"terminal.ansiYellow": "#F0FF57",
 		"terminal.ansiGreen": "#6BFF6B",
-		"terminal.ansiBlue": "#5060ff",
-		"terminal.ansiCyan": "#59ffff",
-		"terminal.ansiRed": "#ff7776",
+		"terminal.ansiBlue": "#5060FF",
+		"terminal.ansiWhite": "#FFFFFF",
+		"terminal.ansiCyan": "#59FFFF",
+		"terminal.ansiRed": "#FF7776",
 
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
