@@ -4,12 +4,12 @@
 	"semanticHighlighting": false,
 	"semanticTokenColors": {
 		"class": "#F4dA16",
-		"variable": "#00FF00",
+		"variable": "#6BFF6B",
 		"*.local": "#D5ff00",
 		"property":"#20FFCD", 
 		"string": "#FFFFFF",
 		"*.declaration": "#F4dA16",
-		"function":"#00FF00",
+		"function":"#6BFF6B",
 		"*.deprecated": "#ff9999",
 		"operator": "#FF81D7"
 	},
@@ -246,21 +246,21 @@
 		"symbolIcon.methodForeground": "#FFB0EF",
 		"symbolIcon.propertyForeground": "#AFFFAF",
 		"symbolIcon.snippetForeground": "#20FFCD",
-		"symbolIcon.variableForeground": "#00FF00",
+		"symbolIcon.variableForeground": "#6BFF6B",
 
 		//default set
-		"symbolIcon.booleanForeground": "#00ff00",
-		"symbolIcon.arrayForeground": "#00ff00",
-		"symbolIcon.namespaceForeground": "#00ff00",
-		"symbolIcon.textForeground": "#00ff00",
-		"symbolIcon.objectForeground": "#00ff00",
-		"symbolIcon.moduleForeground": "#00ff00",
-		"symbolIcon.constructorForeground": "#00ff00",
-		"symbolIcon.fileForeground": "#00ff00",
-		"symbolIcon.stringForeground": "#00ff00",
-		"symbolIcon.packageForeground": "#00ff00",
-		"symbolIcon.keyForeground": "#00ff00",
-		"symbolIcon.operatorForeground": "#00ff00",
+		"symbolIcon.booleanForeground": "#6BFF6B",
+		"symbolIcon.arrayForeground": "#6BFF6B",
+		"symbolIcon.namespaceForeground": "#6BFF6B",
+		"symbolIcon.textForeground": "#6BFF6B",
+		"symbolIcon.objectForeground": "#6BFF6B",
+		"symbolIcon.moduleForeground": "#6BFF6B",
+		"symbolIcon.constructorForeground": "#6BFF6B",
+		"symbolIcon.fileForeground": "#6BFF6B",
+		"symbolIcon.stringForeground": "#6BFF6B",
+		"symbolIcon.packageForeground": "#6BFF6B",
+		"symbolIcon.keyForeground": "#6BFF6B",
+		"symbolIcon.operatorForeground": "#6BFF6B",
 
 		//Terminal
 		"terminal.background": "#294629",
@@ -427,7 +427,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#6BFF6B"
 			}
 		},
 		{
@@ -450,7 +450,7 @@
 				"entity.name.function.js"
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#6BFF6B"
 			}
 		},
 		{
@@ -501,7 +501,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#6BFF6B"
 			}
 		},
 		{
@@ -554,7 +554,7 @@
 				"entity.name",
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#6BFF6B"
 			}
 		},
 		{
@@ -684,7 +684,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#6BFF6B"
 			}
 		},
 		
