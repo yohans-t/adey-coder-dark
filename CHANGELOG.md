@@ -2,6 +2,19 @@
 
 All notable changes to the "adey-coder-dark" extension will be documented in this file.
 
+## [0.5.2]
+
+Changes made on this version
+
+- Update display name and theme label to better
+  - Display name "Adey Coder Dark" to "Adey Coder Theme"
+  - On theme label removed "dark" now it is only "Adey Coder"
+- Some colors color saturations are decreased
+  - "#00FF00" to "#6BFF6B"
+  - "#FFFF00" to "#F0FF57"
+  - "#F4DA16" to "#F4D476"
+- Small fix for syntax highlighting of **C#**,**Java**,**Javascript**,**PHP**,**Python** and **Swift** languages.
+
 ## [0.5.0]
 
 - New Logo for Theme
