@@ -337,7 +337,7 @@
 				"string constant.other.placeholder",
 				"meta.definition.type.body.swift",
 				"meta.block variable.other",
-				"meta.item-access.python"
+				"meta.item-access.python",
 			],
 			"settings": {
 				"foreground": "#6bFF6b"
@@ -375,8 +375,11 @@
 				"keyword.other.rust",
 				"keyword.other.new",
 				"keyword.operator.new",
+				"keyword.other.kotlin",
 				"storage.type.function.python",
-				"keyword.other.declaration-specifier.swift"
+				"keyword.other.declaration-specifier.swift",
+				"storage.control.clojure",
+				"source.sml storage.type"
 			],
 			"settings": {
 				"foreground": "#FFD476"
@@ -421,7 +424,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#ffffffA9"
+				"foreground": "#FFFFFF99"
 			}
 		},
 		{
@@ -452,7 +455,8 @@
 				"variable.function",
 				"support.function",	
 				"meta.function-call",
-				"entity.name.function.js"
+				"entity.name.function.js",
+				"entity.global.clojure"
 			],
 			"settings": {
 				"foreground": "#6BFF6B"
@@ -469,7 +473,11 @@
 				"entity.name.variable.parameter.php",
 				"variable.other.property.php",
 				"variable.other.object.property.java",
-				"variable.other.swift"
+				"variable.other.swift",
+				"source.elixir constant.language",
+				"constant.keyword.clojure",
+				"source.sml entity.name.filename",
+				"meta.block.kotlin"
 			],
 			"settings": {
 				"foreground": "#D5FF00"
@@ -572,7 +580,7 @@
 				"support.type.swift",
 				"keyword.other.type.php",
 				"keyword.other.fn.rust",
-				"entity.name.type.rust"
+				"entity.name.type.rust",
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
