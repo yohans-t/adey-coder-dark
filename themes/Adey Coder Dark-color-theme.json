@@ -6,12 +6,15 @@
 		"class": "#FFD476",
 		"variable": "#6BFF6B",
 		"*.local": "#6BFF6B",
+		"parameter": "#6BFF6B",
 		"property":"#D5FF00", 
 		"string": "#FFFFFF",
 		"*.declaration": "#FFD476",
 		"function":"#6BFF6B",
 		"*.deprecated": "#ff9999",
-		"operator": "#FF81D7"
+		"operator": "#FF81D7",
+		"namespace": "#F4D476",
+		"type": "#D5FF00"
 	},
 	"colors": {
 		// done
