@@ -2,7 +2,7 @@
 
 All notable changes to the "adey-coder-dark" extension will be documented in this file.
 
-## [0.5.2]
+## [0.6.0]
 
 Changes made on this version
 
@@ -13,7 +13,8 @@ Changes made on this version
   - "#00FF00" to "#6BFF6B"
   - "#FFFF00" to "#F0FF57"
   - "#F4DA16" to "#F4D476"
-- Small fix for syntax highlighting of **C#**,**Java**,**Javascript**,**PHP**,**Python** and **Swift** languages.
+- Small fix for syntax highlighting of ,**Clojure**,**C#**,**Java**,**Javascript**,**PHP**,**Python**and**Swift** languages.
+- Support of sysntax highlighting for **Elixir(.ex)**,**Kotlin(.kt)**,**Scala(.scala)** and **Standard ML(.sml)**.
 
 ## [0.5.0]
 
