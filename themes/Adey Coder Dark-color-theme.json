@@ -341,6 +341,7 @@
 				"meta.definition.type.body.swift",
 				"meta.block variable.other",
 				"meta.item-access.python",
+				"source.kotlin variable.parameter"
 			],
 			"settings": {
 				"foreground": "#6bFF6b"
@@ -382,7 +383,8 @@
 				"storage.type.function.python",
 				"keyword.other.declaration-specifier.swift",
 				"storage.control.clojure",
-				"source.sml storage.type"
+				"source.sml storage.type",
+				"storage.type.kotlin"
 			],
 			"settings": {
 				"foreground": "#FFD476"
@@ -584,6 +586,7 @@
 				"keyword.other.type.php",
 				"keyword.other.fn.rust",
 				"entity.name.type.rust",
+				"support.class.kotlin"
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
