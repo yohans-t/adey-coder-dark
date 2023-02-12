@@ -10,7 +10,7 @@ Adey Coder dark theme is a Green colored theme for VS Code and maintain clean an
 
 🔔 This theme **Adey Coder Dark Theme** is still on development.
 
-# Supported Languages
+## Supported Languages
 
 This theme have a support for languages
 | Letter | Languages |
@@ -28,16 +28,16 @@ This theme have a support for languages
 | **S** | Scala , Standard ML , Swift |
 | **T** | Typescript |
 
-# How To install
+## How To install
 
-## Method 1 - Using Extension Panel
+### Method 1 - Using Extension Panel
 
 1. Open Extensions sidebar panel in VS Code. _View → Extensions_
 1. Search for **Adey Coder Dark** - find the one by **Adey Coder**
 1. Click **Install** to install it.
 1. Code > Preferences > Color Theme > Adey Coder Dark
 
-## Method 2 - Using Quick open
+### Method 2 - Using Quick open
 
 1. Launch _VS Code Quick open_ (**Ctrl+P**)
 1. Paste the following command
@@ -47,7 +47,7 @@ This theme have a support for languages
 
 ## Screenshot
 
-Preview of theme on **HTML**, **CSS**, **JavaScript** and **PHP** and **Welcome Page**
+Preview of theme on **Welcome Page** , **HTML**and**JavaScript**
 
 ### Welcome Page
 
@@ -55,7 +55,7 @@ This is how it looks the first/initial page of the VS Code.
 
 ![ScreenShot of Welcome Page](./images/welcome.png)
 
-### Preview Changes [v 0.5.0]
+### Preview
 
 Preview to show how latest update has syntax highlighting
 
