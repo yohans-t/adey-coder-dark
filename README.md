@@ -30,14 +30,14 @@ This theme have a support for languages
 
 ## How To install
 
-### Method 1 - Using Extension Panel
+### 1 - Using Extension Panel
 
 1. Open Extensions sidebar panel in VS Code. _View → Extensions_
 1. Search for **Adey Coder Dark** - find the one by **Adey Coder**
 1. Click **Install** to install it.
 1. Code > Preferences > Color Theme > Adey Coder Dark
 
-### Method 2 - Using Quick open
+### 2 - Using Quick open
 
 1. Launch _VS Code Quick open_ (**Ctrl+P**)
 1. Paste the following command
