@@ -14,7 +14,7 @@ Adey Coder dark theme is a Green colored theme for VS Code and maintain clean an
 
 This theme have a support for languages
 | Letter | Languages |
-|---|---|
+|:---:|---|
 | **C** | C , C++ , C# , CSS , Clojure |
 | **D** | Dart|
 | **E** | Elixir |
