@@ -168,15 +168,15 @@
 		"notificationsInfoIcon.foreground": "#F0FF57",
 		"notificationsErrorIcon.foreground": "#ff8080",
 
-		//Progressbar
+		//Progress bar
 		"progressBar.background": "#DEFFDE",
 
-		//Panel for terminals,debug consolu...etc - done
-		"panel.border": "#294629",
-		"panelTitle.activeForeground": "#DEFFDE",
-		"panelTitle.activeBorder": "#DEFFDE",
-		"panelTitle.inactiveForeground": "#6EBD6E",
+		//Panel for terminals,debug console...etc - done
 		"panel.background": "#294629",
+		"panel.border": "#294629",
+		"panelTitle.activeForeground": "#CDFFCD",
+		"panelTitle.activeBorder": "#CDFFCD",
+		"panelTitle.inactiveForeground": "#6EBD6E",
 
 		//PeekView Editor
 		"peekViewTitle.background": "#294629",
@@ -267,8 +267,9 @@
 
 		//Terminal
 		"terminal.background": "#294629",
-		"terminal.foreground": "#DEFFDE",
+		"terminal.foreground": "#CDFFCD9A",
 		"terminal.selectionBackground": "#121F12",
+		"terminal.selectionForeground": "#6BFF6B",
 		"terminal.border": "#3C673C",
 		"terminalCursor.foreground": "#7ED77E",
 		"terminalCursor.background": "#7ED77E",
@@ -279,6 +280,7 @@
 		"terminal.ansiWhite": "#FFFFFF",
 		"terminal.ansiCyan": "#59FFFF",
 		"terminal.ansiRed": "#FF7776",
+
 
 		//Title Bar
 		"titleBar.activeBackground": "#121F12",
