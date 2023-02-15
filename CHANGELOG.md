@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "adey-coder-dark" extension will be documented in this file.
+All notable changes.
 
 ## [0.6.0]
 
