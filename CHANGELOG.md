@@ -14,12 +14,12 @@ Changes made on this version
   - "#FFFF00" to "#F0FF57"
   - "#F4DA16" to "#F4D476"
 - Small fix for syntax highlighting of **Clojure**, **C#**, **Java**, **Javascript**, **Markdown**, **PHP**, **Python** and **Swift** languages.
-- Support of sysntax highlighting for **Elixir(.ex)**, **Kotlin(.kt)**, **Scala(.scala)** and **Standard ML(.sml)**.
+- Support of syntax highlighting for **Elixir(.ex)**, **Kotlin(.kt)**, **Scala(.scala)** and **Standard ML(.sml)**.
 
 ## [0.5.0]
 
 - New Logo for Theme
-- Make some changes for sysntax highlighting for languages
+- Make some changes for syntax highlighting for languages
 
 ## [0.4.8]
 
@@ -40,7 +40,7 @@ make a major changes to color schema
 
 ## [0.4.0]
 
-in this update make a changes to color schema and syntax highlighting from the intial draft theme. a changes are made to the following sections
+in this update make a changes to color schema and syntax highlighting from the initial draft theme. a changes are made to the following sections
 
 - terminal/panel
 - list (sidebar, menu,etc...)
