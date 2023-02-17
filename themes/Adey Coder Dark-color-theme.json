@@ -104,16 +104,17 @@
 		"editorBracketPairGuide.activeBackground6": "#FF81D7",
 
 		//git source control
-		"gitDecoration.modifiedResourceForeground": "#D5FF00",
-		"gitDecoration.untrackedResourceForeground": "#28F4E0",
+		"gitDecoration.modifiedResourceForeground": "#59FFFF",
+		"gitDecoration.untrackedResourceForeground": "#6BFF6B",
 		"gitDecoration.deletedResourceForeground": "#ff8080",
+		"gitDecoration.ignoredResourceForeground": "#CDFFCD77",
+		"gitDecoration.addedResourceForeground": "#6BFF6B",
+		"gitDecoration.stageModifiedResourceForeground": "#F0FF57",
 		
 		//! need work
 		// "gitDecoration.renamedResourceForeground": "#ff0000",
 		// "gitDecoration.conflictingResourceForeground": "#ff0000",
 		// "gitDecoration.stageModifiedResourceForeground": "#ff0000",
-		// "gitDecoration.addedResourceForeground": "#ff0000",
-		// "gitDecoration.ignoredResourceForeground": "#ff0000",
 		// "gitDecoration.stageDeletedResourceForeground": "#ff0000",
 		// "gitlens.gutterBackgroundColor": "#ff0000",
 		// "gitlens.gutterUncommittedForegroundColor": "#ff0000",
