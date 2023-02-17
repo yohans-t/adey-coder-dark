@@ -2,6 +2,13 @@
 
 All notable changes.
 
+## [0.6.1]
+
+A small changes to
+
+- terminal colors
+- git decoration updates
+
 ## [0.6.0]
 
 Changes made on this version
