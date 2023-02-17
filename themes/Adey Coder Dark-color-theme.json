@@ -103,6 +103,16 @@
 		"editorBracketPairGuide.activeBackground5": "#20FFAD",
 		"editorBracketPairGuide.activeBackground6": "#FF81D7",
 
+		// Extension
+		"extensionIcon.starForeground": "#6BFF6B",
+		"extensionButton.background": "#294629",
+		"extensionButton.foreground": "#CDFFCD",
+		"extensionButton.hoverBackground": "#3C673C",
+		"extensionButton.separator": "#3C673C",
+		"extensionIcon.preReleaseForeground": "#3C673C",
+		"extensionIcon.verifiedForeground": "#7ED77E",
+		"extensionIcon.sponsorForeground": "#6BFF6B",
+
 		//git source control
 		"gitDecoration.modifiedResourceForeground": "#D5FF00",
 		"gitDecoration.untrackedResourceForeground": "#6BFF6B",
