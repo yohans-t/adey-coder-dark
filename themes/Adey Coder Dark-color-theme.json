@@ -121,13 +121,19 @@
 		// "gitlens.decorations.ignoredForegroundColor": "#ff0000",
 
 		//Input Fields
-		"input.background": "#294629",
-		"input.foreground": "#7ED77E",
-		"input.placeholderForeground": "#7ED77E77",
-		"inputOption.activeBorder": "#3C673C00",
-		"inputOption.activeBackground": "#294629",
-		"inputValidation.errorForeground": "#FF8080",
-		"inputValidation.errorBorder": "#FF8080",
+		"input.background"                 : "#294629",
+		"input.foreground"                 : "#7ED77E",
+		"input.placeholderForeground"      : "#7ED77E77",
+		"input.border"                     : "#3C673C",
+		"inputOption.activeBorder"         : "#6EBD6E",
+		"inputOption.activeBackground"     : "#294629",
+		"inputOption.hoverBackground"      : "#3C673C",
+		"inputValidation.errorForeground"  : "#FF8080",
+		"inputValidation.errorBorder"      : "#FF8080",
+		"inputValidation.warningBorder"    : "#FFD476",
+		"inputValidation.warningForeground": "#FFD476",
+		"inputValidation.infoBorder"       : "#59FFFF",
+		"inputValidation.infoForeground"   : "#59FFFF",
 
 		//Side Bar, Control Panel,... list
 		"list.activeSelectionBackground"      : "#294629",
@@ -326,12 +332,12 @@
 		"editorGroupHeader.tabsBackground":"#121F12",
 		"editorGroup.dropBackground": "#3C673C",
 		
-		//global
-		"focusBorder": "#3C673C",
+		//global 
+		"focusBorder"                : "#3C673C",
 		"editorWhitespace.foreground": "#265426",
-		"selection.background": "#3C673C",
-		"textLink.foreground": "#7ED77E",
-		"textLink.activeForeground": "#FFFFFF",
+		"selection.background"       : "#3C673C",
+		"textLink.foreground"        : "#B3FEA7",
+		"textLink.activeForeground"  : "#FFFFFF",
 		"editorLink.activeForeground": "#FFFFFF",
 		"notificationLink.foreground": "#7ED77E",
 		
@@ -340,7 +346,7 @@
 		"widget.shadow": "#AFFFAF00",
 		"welcomePage.progress.foreground": "#6EBD6E",
 		"welcomePage.tileBackground": "#3C673C",
-		"welcomePage.progress.background": "#3C673C",
+		"welcomePage.progress.background": "#3C673C77",
 		"welcomePage.tileHoverBackground": "#294629",
 	},
 	"tokenColors": [
