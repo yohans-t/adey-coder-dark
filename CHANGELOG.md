@@ -8,6 +8,8 @@ A small changes to
 
 - terminal colors
 - git decoration updates
+- extension style
+- settings
 
 ## [0.6.0]
 
