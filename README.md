@@ -7,6 +7,7 @@ Adey Coder dark theme is a Green colored theme for VS Code and maintain clean an
 
 - Youtube channel : [Adey Coder](https://youtube.com/c/AdeyCoder)
 - Links : [My Links](https://znap.link/adeycoder)
+- Support My work : [Patreon](https://www.patreon.com/adeycoder) - [Ko-fi](https://ko-fi.com/adeycoder)
 
 🔔 This theme **Adey Coder Dark Theme** is still on development.
 
