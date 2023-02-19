@@ -28,6 +28,9 @@
         "color": "#294629",
         "theme": "dark"
     },
+    "sponsor": {
+        "url": "https://ko-fi.com/adeycoder"
+    },
     "contributes": {
         "themes": [
             {

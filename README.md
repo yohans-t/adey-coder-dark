@@ -40,11 +40,11 @@ This theme have a support for languages
 
 ### 2 - Using Quick open
 
-1. Launch _VS Code Quick open_ (**Ctrl+P**)
-1. Paste the following command
-    > ext install AdeyCoder.adey-coder-dark
-1. Then press **Enter**
-1. Code > Preferences > Color Theme > Adey Coder Dark
+You can also install using Launch _VS Code Quick open_ (**Ctrl+P**), Paste the following command
+
+> ext install AdeyCoder.adey-coder-dark
+
+Then press **Enter**
 
 ## Screenshot
 
@@ -52,7 +52,7 @@ Preview of theme on
 
 This is how it looks the first/initial page of the VS Code.
 
-![ScreenShot of Welcome Page][welcome]
+![ScreenShot of Welcome Page](./images/welcome.png)
 
 ### Preview
 
