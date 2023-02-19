@@ -50,7 +50,6 @@ This theme have a support for languages
 
 Preview of theme on
 
-
 This is how it looks the first/initial page of the VS Code.
 
 ![ScreenShot of Welcome Page][welcome]
