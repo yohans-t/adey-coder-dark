@@ -1,11 +1,11 @@
 
 # Adey Coder Dark Theme
 
-![Adey Coder Dark Theme](./images/banner-v2.png)
+![Adey Coder Dark Theme][banner]
 
-Adey Coder dark theme is a Green colored theme for VS Code and maintain clean and smooth coding ground. I use this theme on my youtube channel code tutorial videos. Green is my favorite color so I made this green dark theme.
+Adey Coder dark theme is a Green colored theme for VS Code and maintain clean and smooth coding ground. I use this theme on my [youtube channel][youtube-link] code tutorial videos. Green is my favorite color so I made this green dark theme.
 
-- Youtube channel : [Adey Coder](https://youtube.com/c/AdeyCoder)
+- Youtube channel : [Adey Coder][youtube-link]
 - Links : [My Links](https://znap.link/adeycoder)
 - Support My work : [Patreon](https://www.patreon.com/adeycoder) - [Ko-fi](https://ko-fi.com/adeycoder)
 
@@ -48,22 +48,27 @@ This theme have a support for languages
 
 ## Screenshot
 
-Preview of theme on **Welcome Page** , **HTML**and**JavaScript**
+Preview of theme on
 
-### Welcome Page
 
 This is how it looks the first/initial page of the VS Code.
 
-![ScreenShot of Welcome Page](./images/welcome.png)
+![ScreenShot of Welcome Page][welcome]
 
 ### Preview
 
 Preview to show how latest update has syntax highlighting
 
-![ScreenShot of CSS](./images/HTML-Changes.png)
+![ScreenShot of Next.JS Project][nextjs]
 
-![ScreenShot of JS](./images/JS-Changes.png)
+![ScreenShot of Javascript][javascript]
 
 Thank your using 🙂
 
 **Enjoy!**
+
+[banner]: ./images/banner-v2.png
+[welcome]: ./images/welcome.png
+[nextjs]: ./images/Preview.png
+[javascript]: ./images/js.png
+[youtube-link]: https://youtube.com/@AdeyCoder
