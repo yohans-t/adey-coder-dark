@@ -20,10 +20,16 @@
 		// done
 		"activityBar.background": "#121f12",
 		"activityBar.foreground": "#6EBD6E",
-		"activityBarBadge.background": "#7ED77E",
-		"activityBarBadge.foreground": "#121F12",
 		"activityBar.activeBorder": "#6EBD6E",
 		"activityBar.border": "#294629",
+
+		//Badge
+		"activityBarBadge.background": "#7ED77E",
+		"activityBarBadge.foreground": "#121F12",
+		"badge.background": "#7ED77E",
+		"badge.foreground": "#121F12",
+		"profileBadge.background": "#7ED77E",
+		"profileBadge.foreground": "#121F12",
 
 		//Breadcrumb
 		"breadcrumb.background": "#121F12",
@@ -40,9 +46,6 @@
 		"button.secondaryBackground": "#243B24",
 		"button.secondaryForeground": "#55BB55",
 
-		//Badge
-		"badge.background": "#294629",
-		"badge.foreground": "#7ED77E",
 
 		"dropdown.background": "#294629",
 		"dropdown.border": "#26542600",
