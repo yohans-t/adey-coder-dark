@@ -598,7 +598,7 @@
 		},
 		
 		{
-			"name": "String Qouted HTML and CSS",
+			"name": "String Quoted HTML and CSS",
 			"scope": [
 				"string.quoted.double.html",
 				"string.quoted.single.html",
@@ -606,7 +606,7 @@
 				"string.quoted.single.css"
 			],
 			"settings": {
-				"foreground": "#B3FEA7"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -654,7 +654,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#B3FEA7"
 			}
 		},
 		{
