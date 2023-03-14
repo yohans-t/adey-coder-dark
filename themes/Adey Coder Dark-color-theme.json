@@ -39,7 +39,7 @@
 		"breadcrumbPicker.background": "#294629",
 
 		//Buttons - done
-		"button.background": "#6BFF6B",
+		"button.background": "#7ED77E",
 		"button.foreground": "#121F12",
 		"button.hoverBackground": "#B3FEA7",
 		// "button.border": "#3C673C",
@@ -108,14 +108,14 @@
 
 		// Extension
 		"extensionIcon.starForeground"            : "#6BFF6B",
+		"extensionIcon.preReleaseForeground"      : "#3C673C",
+		"extensionIcon.verifiedForeground"        : "#7ED77E",
+		"extensionIcon.sponsorForeground"         : "#6BFF6B",
 		"extensionButton.background"              : "#6BFF6B",
 		"extensionButton.foreground"              : "#121F12",
 		"extensionButton.hoverBackground"         : "#B3FEA7",
 		"extensionButton.separator"               : "#3C673C",
-		"extensionIcon.preReleaseForeground"      : "#3C673C",
-		"extensionIcon.verifiedForeground"        : "#7ED77E",
-		"extensionIcon.sponsorForeground"         : "#6BFF6B",
-		"extensionButton.prominentBackground"     : "#6BFF6B",
+		"extensionButton.prominentBackground"     : "#7ED77E",
 		"extensionButton.prominentForeground"     : "#121F12",
 		"extensionButton.prominentHoverBackground": "#B3FEA7",
 
