@@ -243,7 +243,7 @@
 		"statusBar.background": "#121F12",
 		"statusBar.border": "#294629",
 		"statusBar.foreground": "#DEFFDE",
-		"statusBarItem.hoverBackground":"#B3FEA7",
+		"statusBarItem.hoverBackground":"#B3FEA787",
 		"statusBarItem.activeBackground": "#6EBD6E",
 		"statusBar.noFolderBackground":"#152515",
 		"statusBar.noFolderBorder": "#55BB55",
