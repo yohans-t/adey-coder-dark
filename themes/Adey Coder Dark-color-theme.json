@@ -193,7 +193,7 @@
 		"notificationsInfoIcon.foreground"   : "#59FFFF",
 		"notificationsErrorIcon.foreground"  : "#ff8080",
 		"notificationToast.border"           : "#121F1257",
-		"notificationCenterHeader.background": "#121F1224",
+		"notificationCenterHeader.background": "#233b23",
 		"notificationCenterHeader.foreground": "#B3FEA7",
 		"notificationCenter.border"          : "#121F1257",
 
@@ -236,7 +236,7 @@
 		"sideBarSectionHeader.background": "#294629",
 		"sideBarSectionHeader.foreground": "#B3FEA7B9",
 		"sideBar.dropBackground": "#AFFFAF",	
-		"sideBarSectionHeader.border": "#121F12",
+		"sideBarSectionHeader.border": "#121F1234",
 		// "sideBySideEditor.horizontalBorder": "#6EBD6E",
 
 		//Status bar
