@@ -187,15 +187,15 @@
 		
 		//notifications
 		"notifications.background"           : "#294629",
-		"notifications.foreground"           : "#DEFFDE",
-		"notificationCenterHeader.background": "#294629",
-		"notificationCenterHeader.foreground": "#B3FEA7",
-		"notifications.border"               : "#3C673C",
+		"notifications.foreground"           : "#CDFFCD",
+		"notifications.border"               : "#121F1257",
 		"notificationsWarningIcon.foreground": "#FFD476",
 		"notificationsInfoIcon.foreground"   : "#59FFFF",
 		"notificationsErrorIcon.foreground"  : "#ff8080",
-		"notificationToast.border"           : "#3C673C",
-		"notificationCenter.border"          : "#3C673C",
+		"notificationToast.border"           : "#121F1257",
+		"notificationCenterHeader.background": "#121F1224",
+		"notificationCenterHeader.foreground": "#B3FEA7",
+		"notificationCenter.border"          : "#121F1257",
 
 		//Progress bar
 		"progressBar.background": "#DEFFDE",
