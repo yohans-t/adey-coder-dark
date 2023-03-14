@@ -2,6 +2,15 @@
 
 All notable changes.
 
+## [0.6.2]
+
+Small but important changes
+
+- button color is changed to make better standout
+- small correction on notification center
+- fixed status bar hover readability problem
+- and more
+
 ## [0.6.1]
 
 A small changes to
