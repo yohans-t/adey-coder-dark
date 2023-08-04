@@ -66,11 +66,17 @@
     "dropdown.foreground": "#DEFFDE",
 
     //DEBUG CONSOLE
-    "debugToolBar.background": "#265426",
+    "debugToolBar.background": "#294629",
     "debugConsole.sourceForeground": "#D5FF00",
     "debugConsole.errorForeground": "#ff9494",
     "debugConsole.infoForeground": "#FFFFFF",
     "debugConsole.warningForeground": "#FFD476",
+    "debugIcon.pauseForeground": "#59FFFF",
+    "debugIcon.breakpointForeground": "#FFD476",
+    "debugIcon.stepIntoForeground": "#CDFFCD",
+    "debugIcon.stepOutForeground": "#CDFFCD",
+    "debugIcon.stepOverForeground": "#CDFFCD",
+    "debugIcon.restartForeground": "#6BFF6B",
 
     //Editor Section
     "editor.background": "#121F12",
