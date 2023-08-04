@@ -214,8 +214,8 @@
     "progressBar.background": "#DEFFDE",
 
     //Panel for terminals,debug console...etc - done
-    "panel.background": "#192819",
-    "panel.border": "#192819",
+    "panel.background": "#1A291A",
+    "panel.border": "#294629",
     "panelTitle.activeForeground": "#CDFFCD",
     "panelTitle.activeBorder": "#CDFFCD",
     "panelTitle.inactiveForeground": "#6EBD6E",
@@ -318,7 +318,7 @@
     "symbolIcon.operatorForeground": "#6BFF6B",
 
     //Terminal
-    "terminal.background": "#192819",
+    "terminal.background": "#1A291A",
     "terminal.foreground": "#CDFFCD9A",
     "terminal.selectionBackground": "#121F12",
     "terminal.selectionForeground": "#6BFF6B",
