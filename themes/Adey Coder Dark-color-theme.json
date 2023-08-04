@@ -46,6 +46,20 @@
     "button.secondaryBackground": "#243B24",
     "button.secondaryForeground": "#55BB55",
 
+    //Chats
+    // "chat.requestBackground": "#ff0000",
+    // "chat.requestBorder": "#ff0000",
+    // "inlineChat.background": "#ff0000",
+    // "inlineChat.border": "#ff0000",
+    // "inlineChat.regionHighlight": "#ff0000",
+    // "inlineChatInput.background": "#ff0000",
+    // "inlineChatInput.focusBorder": "#ff0000",
+    // "inlineChatInput.border": "#ff0000",
+    // "inlineChatInput.placeholderForeground": "#ff0000",
+    // "inlineChatDiff.inserted": "#ff0000",
+    // "inlineChatrDiff.removed": "#ff0000",
+
+    // Drop-down
     "dropdown.background": "#294629",
     "dropdown.border": "#26542600",
     "dropdown.listBackground": "#294629",
