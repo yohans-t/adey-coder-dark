@@ -290,7 +290,7 @@
     "settings.dropdownForeground": "#B3FEA7B9",
     "settings.rowHoverBackground": "#29462977",
     "settings.focusedRowBorder": "#3C673C",
-    "settings.focusedRowBackground": "#294629",
+    "settings.focusedRowBackground": "#29462977",
 
     //SCROLLBAR
     "scrollbarSlider.activeBackground": "#3C673C",
