@@ -86,6 +86,7 @@
     "editor.foldBackground": "#29462967",
     "editor.selectionBackground": "#294629",
     "editor.selectionForeground": "#FFFFFF",
+    "editor.selectionHighlightBackground": "#3C673C",
     "editorCursor.background": "#7ED77E",
     "editorCursor.foreground": "#7ED77E",
     "editorWidget.background": "#294629",
@@ -104,7 +105,6 @@
     "editorError.foreground": "#ff7776",
     "editorWarning.foreground": "#FFD476",
     "editorGhostText.foreground": "#CDFFCD37",
-    "editor.selectionHighlightBackground": "#ff0000",
 
     // Editor line numbers
     "editorLineNumber.foreground": "#3C673C",
@@ -267,7 +267,7 @@
     "sideBar.border": "#294629",
     "sideBarSectionHeader.background": "#192819",
     "sideBarSectionHeader.foreground": "#B3FEA7B9",
-    "sideBar.dropBackground": "#AFFFAF",
+    "sideBar.dropBackground": "#294629",
     "sideBarSectionHeader.border": "#121F1234",
     // "sideBySideEditor.horizontalBorder": "#6EBD6E",
 
