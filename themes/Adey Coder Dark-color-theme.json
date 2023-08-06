@@ -151,6 +151,9 @@
     "gitlens.graphChangesColumnDeletedColor": "#ff7776",
     "gitlens.graphLane1Color": "#7ED77E",
     "gitlens.graphLane2Color": "#F0FF57",
+    "gitlens.graphLane3Color": "#FFD476",
+    "gitlens.graphLane4Color": "#59FFFF",
+    "gitlens.graphLane5Color": "#6BFF6B",
 
     //! need work
     // "gitDecoration.renamedResourceForeground": "#ff0000",
