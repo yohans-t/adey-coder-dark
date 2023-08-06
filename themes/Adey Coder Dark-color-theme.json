@@ -146,7 +146,11 @@
     "gitDecoration.deletedResourceForeground": "#ff8080",
     "gitDecoration.ignoredResourceForeground": "#CDFFCD77",
     "gitDecoration.addedResourceForeground": "#6BFF6B",
-    // "gitDecoration.stageModifiedResourceForeground": "#b987ff",
+    "gitlens.trailingLineForegroundColor": "#3C673C",
+    "gitlens.graphChangesColumnAddedColor": "#6BFF6B",
+    "gitlens.graphChangesColumnDeletedColor": "#ff7776",
+    "gitlens.graphLane1Color": "#7ED77E",
+    "gitlens.graphLane2Color": "#F0FF57",
 
     //! need work
     // "gitDecoration.renamedResourceForeground": "#ff0000",
