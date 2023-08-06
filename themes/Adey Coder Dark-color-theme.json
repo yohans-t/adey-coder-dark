@@ -81,8 +81,8 @@
     //Editor Section
     "editor.background": "#121F12",
     "editor.foreground": "#FFFFFF",
-    "editor.findMatchBackground": "#121F12",
-    "editor.findMatchHighlightBackground": "#3C673C",
+    "editor.findMatchBackground": "#3C673C",
+    "editor.findMatchHighlightBackground": "#294629",
     "editor.foldBackground": "#29462967",
     "editor.selectionBackground": "#294629",
     "editor.selectionForeground": "#FFFFFF",
@@ -90,10 +90,10 @@
     "editorCursor.foreground": "#7ED77E",
     "editorWidget.background": "#294629",
     "editorWidget.foreground": "#DEFFDE",
-    "editorWidget.border": "#3C673C",
+    "editorWidget.border": "#294629",
 
     "editorSuggestWidget.background": "#294629",
-    "editorSuggestWidget.border": "#3C673C",
+    "editorSuggestWidget.border": "#294629",
     "editorSuggestWidget.foreground": "#DEFFDFB9",
     "editorSuggestWidget.selectedBackground": "#121F12",
     "editorSuggestWidget.selectedIconForeground": "#6CED6C",
@@ -101,8 +101,10 @@
     "editorSuggestWidget.focusHighlightForeground": "#6BFF6B",
     "editorSuggestWidget.selectedForeground": "#DEFFDE",
 
-    "editorError.foreground": "#ff8080",
+    "editorError.foreground": "#ff7776",
     "editorWarning.foreground": "#FFD476",
+    "editorGhostText.foreground": "#CDFFCD37",
+    "editor.selectionHighlightBackground": "#ff0000",
 
     // Editor line numbers
     "editorLineNumber.foreground": "#3C673C",
@@ -198,11 +200,15 @@
     "menubar.selectionForeground": "#DEFFDE",
 
     //MiniMap
+    "minimap.background": "#121F12",
     "minimapSlider.background": "#29462955",
     "minimapSlider.activeBackground": "#3C673C55",
-    "minimap.background": "#121F12",
     "minimapSlider.hoverBackground": "#29462955",
-    "minimap.errorHighlight": "#FF8080",
+    "minimap.selectionHighlight": "#3C673C",
+    "minimap.findMatchHighlight": "#6EBD6E",
+    "minimap.errorHighlight": "#ff7776",
+    "minimap.warningHighlight": "#FFD476",
+    "minimap.foregroundOpacity": "#ff0000",
 
     //notifications
     "notifications.background": "#294629",
@@ -217,7 +223,7 @@
     "notificationCenter.border": "#121F1257",
 
     //Progress bar
-    "progressBar.background": "#DEFFDE",
+    "progressBar.background": "#CDFFCD",
 
     //Panel for terminals,debug console...etc - done
     "panel.background": "#1A291A",
@@ -372,7 +378,7 @@
     "tab.unfocusedActiveBackground": "#152515",
     "editorGroupHeader.tabsBorder": "#294629",
     "editorGroupHeader.tabsBackground": "#121F12",
-    "editorGroup.dropBackground": "#3C673C",
+    "editorGroup.dropBackground": "#294629",
 
     //global
     "focusBorder": "#3C673C",
