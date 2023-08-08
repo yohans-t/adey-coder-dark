@@ -72,11 +72,17 @@
     "debugConsole.infoForeground": "#FFFFFF",
     "debugConsole.warningForeground": "#FFD476",
     "debugIcon.pauseForeground": "#59FFFF",
+    "debugIcon.continueForeground": "#6BFF6B",
+    "debugIcon.disconnectForeground": "#ff7776",
     "debugIcon.breakpointForeground": "#FFD476",
+    "debugIcon.breakpointDisabledForeground": "#ff7776",
+    "debugIcon.breakpointUnverifiedForeground": "#CDFFCD57",
     "debugIcon.stepIntoForeground": "#CDFFCD",
     "debugIcon.stepOutForeground": "#CDFFCD",
     "debugIcon.stepOverForeground": "#CDFFCD",
     "debugIcon.restartForeground": "#6BFF6B",
+    "debugIcon.stopForeground": "#ff7776",
+    "debugIcon.startForeground": "#6BFF6B",
 
     //Editor Section
     "editor.background": "#121F12",
@@ -281,9 +287,9 @@
     "statusBar.noFolderBorder": "#55BB55",
     "statusBar.debuggingBackground": "#7ED77E",
     "statusBar.debuggingForeground": "#121F12",
+
     "statusBarItem.warningBackground": "#ff7776",
     "statusBarItem.warningForeground": "#FFFFFF",
-
     "statusBarItem.errorBackground": "#ff8080",
     "statusBarItem.errorForeground": "#152515",
 
