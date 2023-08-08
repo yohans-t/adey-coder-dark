@@ -400,8 +400,8 @@
 
     "widget.shadow": "#AFFFAF00",
     "welcomePage.progress.foreground": "#6EBD6E",
-    "welcomePage.tileBackground": "#3C673C",
-    "welcomePage.progress.background": "#3C673C77",
+    "welcomePage.tileBackground": "#1A291A",
+    "welcomePage.progress.background": "#29462977",
     "welcomePage.tileHoverBackground": "#294629"
   },
   "tokenColors": [
