@@ -358,15 +358,15 @@
     "terminal.ansiRed": "#FF7776", // 4
     "terminal.ansiMagenta": "#FF81F7", // 5
     "terminal.ansiYellow": "#F0FF57", // 6
-    "terminal.ansiWhite": "#FFFFFF", //
-    "terminal.ansiBlack": "#363636",
-    "terminal.ansiBrightBlack": "#7A7A7A",
-    "terminal.ansiBrightBlue": "#97A0FF", // 9
-    "terminal.ansiBrightGreen": "#a6ff86", // A
-    "terminal.ansiBrightCyan": "#98FFFF", // B
-    "terminal.ansiBrightRed": "#F78C6C", // C
+    "terminal.ansiWhite": "#EDEDED", //
+    "terminal.ansiBlack": "#707070",
+    "terminal.ansiBrightBlack": "#A3A3A3",
+    "terminal.ansiBrightBlue": "#94A9FF", // 9
+    "terminal.ansiBrightGreen": "#9EFF9E", // A
+    "terminal.ansiBrightCyan": "#BDFFFF", // B
+    "terminal.ansiBrightRed": "#FFA8A8", // C
     "terminal.ansiBrightMagenta": "#ffb1fa", // D
-    "terminal.ansiBrightYellow": "#FFFFB3", // E
+    "terminal.ansiBrightYellow": "#F5FF8A", // E
     "terminal.ansiBrightWhite": "#FFFFFF", // F
 
     //Title Bar
