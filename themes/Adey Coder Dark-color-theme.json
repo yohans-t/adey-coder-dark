@@ -352,7 +352,7 @@
     "terminalCursor.background": "#7ED77E",
     "terminal.tab.activeBorder": "#6BFF6B",
 
-    "terminal.ansiBlack": "#707070", // 0
+    "terminal.ansiBlack": "#363636", // 0
     "terminal.ansiBlue": "#5060FF", // 1
     "terminal.ansiGreen": "#6BFF6B", // 2
     "terminal.ansiCyan": "#59FFFF", // 3
