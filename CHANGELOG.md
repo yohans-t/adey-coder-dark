@@ -2,6 +2,16 @@
 
 All notable changes.
 
+## [0.6.6]
+
+Optimized the color schemes for
+
+- Terminal and panel
+- Debug icons
+- Gitlens graph
+- Editor highlighting
+- Token Colors
+
 ## [0.6.2]
 
 Small but important changes
