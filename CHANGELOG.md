@@ -77,7 +77,3 @@ in this update make a changes to color schema and syntax highlighting from the i
 - suggestion list
 - Green tone syntax highlighting
 - nice icons colors
-
-## [Unreleased]
-
-- Initial release
