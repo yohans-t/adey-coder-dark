@@ -133,6 +133,12 @@
     "editorBracketPairGuide.activeBackground5": "#20FFAD",
     "editorBracketPairGuide.activeBackground6": "#FF81D7",
 
+    //Editor Gutter
+    "editorGutter.modifiedBackground": "#D5FF00",
+    "editorGutter.addedBackground": "#6BFF6B",
+    "editorGutter.deletedBackground": "#ff7776",
+    "editorGutter.foldingControlForeground": "#6BFF6B",
+
     // Extension
     "extensionIcon.starForeground": "#6BFF6B",
     "extensionIcon.preReleaseForeground": "#3C673C",
@@ -160,15 +166,27 @@
     "gitlens.graphLane3Color": "#FFD476",
     "gitlens.graphLane4Color": "#59FFFF",
     "gitlens.graphLane5Color": "#6BFF6B",
+    "gitlens.gutterUncommittedForegroundColor": "#6BFF6B",
+    "gitlens.gutterForegroundColor": "#CDFFCD",
+    "gitlens.gutterBackgroundColor": "#1A291A",
+    "gitlens.lineHighlightBackgroundColor": "#6BFF6B30",
+    "gitlens.lineHighlightOverviewRulerColor": "#6BFF6B",
+    "gitlens.unpublishedChangesIconColor": "#D5FF00",
+    "gitlens.unpublishedCommitIconColor": "#6BFF6B",
+    "gitlens.unpulledChangesIconColor": "#FFD476",
+    "gitlens.closedPullRequestIconColor": "#ff7776",
+    "gitlens.decorations.addedForegroundColor": "#6BFF6B",
+    "gitlens.decorations.modifiedForegroundColor": "#D5FF00",
+    "gitlens.decorations.ignoredForegroundColor": "#CDFFCD77",
+    "gitlens.decorations.untrackedForegroundColor": "#6BFF6B",
+    "gitlens.decorations.deletedForegroundColor": "#ff7776",
+    "gitlens.decorations.branchAheadForegroundColor": "#FFD476",
 
     //! need work
     // "gitDecoration.renamedResourceForeground": "#ff0000",
     // "gitDecoration.conflictingResourceForeground": "#ff0000",
     // "gitDecoration.stageModifiedResourceForeground": "#ff0000",
     // "gitDecoration.stageDeletedResourceForeground": "#ff0000",
-    // "gitlens.gutterBackgroundColor": "#ff0000",
-    // "gitlens.gutterUncommittedForegroundColor": "#ff0000",
-    // "gitlens.decorations.ignoredForegroundColor": "#ff0000",
 
     //Input Fields
     "input.background": "#294629",
