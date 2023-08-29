@@ -207,12 +207,6 @@
     "gitlens.unpulledChangesIconColor": "#FFD476",
     "gitlens.closedPullRequestIconColor": "#ff7776",
 
-    //! need work
-    // "gitDecoration.renamedResourceForeground": "#ff0000",
-    // "gitDecoration.conflictingResourceForeground": "#ff0000",
-    // "gitDecoration.stageModifiedResourceForeground": "#ff0000",
-    // "gitDecoration.stageDeletedResourceForeground": "#ff0000",
-
     //Input Fields
     "input.background": "#294629",
     "input.foreground": "#7ED77E",
