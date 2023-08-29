@@ -2,14 +2,14 @@
 
 All notable changes.
 
-## [0.6.6]
+## [0.7.0]
 
 Optimized the color schemes for
 
 - Terminal and panel
 - Debug icons
-- Gitlens graph
-- Editor highlighting
+- Gitlens for graph and other elements
+- Editor highlighting,Overview & Gutter
 - Token Colors
 
 ## [0.6.2]
