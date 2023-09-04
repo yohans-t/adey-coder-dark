@@ -111,6 +111,8 @@
     "editorError.foreground": "#ff7776",
     "editorWarning.foreground": "#FFD476",
     "editorGhostText.foreground": "#CDFFCD37",
+    "editorGroup.border": "#294629",
+    // "editorGroupHeader.border": "#294629",
 
     // Editor line numbers
     "editorLineNumber.foreground": "#3C673C",
