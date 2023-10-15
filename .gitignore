@@ -2,3 +2,4 @@ node_modules
 *.vsix
 Color-Platte.md
 .vscode/settings.json
+themes/test.json
