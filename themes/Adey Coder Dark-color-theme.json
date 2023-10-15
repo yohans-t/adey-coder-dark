@@ -325,15 +325,15 @@
     "statusBar.foreground": "#DEFFDE",
     "statusBarItem.hoverBackground": "#B3FEA787",
     "statusBarItem.activeBackground": "#6EBD6E",
-    "statusBar.noFolderBackground": "#152515",
-    "statusBar.noFolderBorder": "#55BB55",
+    "statusBar.noFolderBackground": "#121F12",
+    "statusBar.noFolderBorder": "#294629",
     "statusBar.debuggingBackground": "#7ED77E",
     "statusBar.debuggingForeground": "#121F12",
 
-    "statusBarItem.warningBackground": "#ff7776",
-    "statusBarItem.warningForeground": "#FFFFFF",
-    "statusBarItem.errorBackground": "#ff8080",
-    "statusBarItem.errorForeground": "#152515",
+    "statusBarItem.warningBackground": "#FFD476",
+    "statusBarItem.warningForeground": "#121F12",
+    "statusBarItem.errorBackground": "#ff7776",
+    "statusBarItem.errorForeground": "#121F12",
 
     //SETTINGS
     "settings.headerForeground": "#CDFFCDB9",
