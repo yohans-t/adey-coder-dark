@@ -3,3 +3,4 @@ node_modules
 Color-Platte.md
 .vscode/settings.json
 themes/test/*
+publish.bat
