@@ -116,7 +116,7 @@
 
     // Editor line numbers
     "editorLineNumber.foreground": "#3C673C",
-    "editorLineNumber.activeForeground": "#6EBD6E",
+    "editorLineNumber.activeForeground": "#6BFF6B",
     "editor.lineHighlightBackground": "#294629",
 
     "editorBracketHighlight.foreground1": "#D5FF00",
