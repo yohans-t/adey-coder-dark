@@ -9,8 +9,6 @@ Adey Coder dark theme is a Green colored theme for VS Code and maintain clean an
 - Links : [My Links](https://znap.link/adeycoder)
 - Support My work : [Patreon](https://www.patreon.com/adeycoder) - [Ko-fi](https://ko-fi.com/adeycoder)
 
-🔔 This theme **Adey Coder Dark Theme** is still on development.
-
 ## Supported Languages
 
 The following are support for languages that are tested.
@@ -45,12 +43,6 @@ You can also install using Launch _VS Code Quick open_ (**Ctrl+P**), Paste the f
 > ext install AdeyCoder.adey-coder-dark
 
 Then press **Enter**
-
-### Preview
-
-Preview to show how latest update
-
-![ScreenShot of Next.JS Project](./images/Preview.png)
 
 Thank your using 🙂
 
