@@ -308,9 +308,10 @@
     "pickerGroup.foreground": "#7ED77E",
 
     //Quick Input Menu
-    "quickInputList.focusBackground": "#121F12",
     "quickInput.background": "#294629",
-    "quickInput.foreground": "#DEFFDE",
+    "quickInput.foreground": "#B3FEA7",
+    "quickInputList.focusBackground": "#121F12",
+    "quickInputList.focusForeground": "#DEFFDE",
 
     //Side Bar
     "sideBarTitle.foreground": "#B3FEA789",
@@ -330,6 +331,9 @@
     "statusBarItem.hoverBackground": "#294629",
     "statusBarItem.hoverForeground": "#B3FEA7",
     "statusBarItem.activeBackground": "#6EBD6E",
+    "statusBarItem.compactHoverBackground": "#3C673C",
+    "statusBarItem.errorHoverBackground": "#FF7776",
+    "statusBarItem.errorHoverForeground": "#FFFFFF",
     "statusBar.noFolderBackground": "#121F12",
     "statusBar.noFolderBorder": "#294629",
     "statusBar.debuggingBackground": "#7ED77E",

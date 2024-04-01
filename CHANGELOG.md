@@ -2,6 +2,10 @@
 
 All notable changes.
 
+## [0.7.1]
+
+Added updates for new features
+
 ## [0.7.0]
 
 Optimized the color schemes for
