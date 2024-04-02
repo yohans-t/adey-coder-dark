@@ -12,9 +12,10 @@
     "*.declaration": "#FFD476",
     "function": "#6BFF6B",
     "*.deprecated": "#ff9999",
-    "operator": "#FF81F7",
+    "operator": "#DEFFDE",
     "namespace": "#F4D476",
-    "type": "#D5FF00"
+    "type": "#D5FF00",
+    "bracket": "#DEFFDE"
   },
   "colors": {
     // done
