@@ -511,6 +511,7 @@
         "storage.modifier.java",
         "storage.type.js",
         "keyword.control",
+        "meta.use.php keyword.control",
         "keyword.type.go",
         "keyword.other.rust",
         "keyword.other.new",
@@ -623,7 +624,10 @@
     },
     {
       "name": "Block Level Variables",
-      "scope": ["meta.block.js entity.name.function.js"],
+      "scope": [
+        "meta.block.js entity.name.function.js",
+        "meta.function-call.js entity.name.function.js"
+      ],
       "settings": {
         "foreground": "#FFD476"
       }
