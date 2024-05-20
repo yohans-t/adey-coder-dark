@@ -511,7 +511,7 @@
         "storage.modifier.java",
         "storage.type.js",
         "keyword.control",
-        "meta.use.php keyword.control",
+        "meta.use.php keyword.other",
         "keyword.type.go",
         "keyword.other.rust",
         "keyword.other.new",
