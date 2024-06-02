@@ -34,9 +34,9 @@
 
     //Breadcrumb
     "breadcrumb.background": "#121F12",
-    "breadcrumb.focusForeground": "#D5FF00",
-    "breadcrumb.foreground": "#6EBD6E",
-    "breadcrumb.activeSelectionForeground": "#D5FF00",
+    "breadcrumb.foreground": "#3C673C",
+    "breadcrumb.focusForeground": "#6BFF6B",
+    "breadcrumb.activeSelectionForeground": "#6BFF6B",
     "breadcrumbPicker.background": "#294629",
 
     //Buttons - done
