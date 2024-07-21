@@ -1,7 +1,6 @@
 node_modules
 *.vsix
 .vscode/settings.json
-themes/test/*
 publish.bat
 ignore/
 Color-Platte.md
