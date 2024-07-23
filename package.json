@@ -1,43 +1,48 @@
 {
-    "name": "adey-coder-dark",
-    "displayName": "Adey Coder Theme",
-    "author": "Yohanes Tesfaye",
-    "description": "Green and Dark Theme for VS Code Editor",
-    "version": "0.7.1",
-    "icon": "images/Logo.png",
-    "publisher": "AdeyCoder",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yohanstesfaye/adey-coder-dark.git"
-    },
-    "keywords": [
-        "dark",
-        "theme",
-        "Green dark theme",
-        "Adey Coder",
-        "Dark Theme",
-        "Green"
-    ],
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "galleryBanner": {
-        "color": "#294629",
-        "theme": "dark"
-    },
-    "sponsor": {
-        "url": "https://ko-fi.com/adeycoder"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Adey Coder",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Adey Coder Dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "adey-coder-dark",
+  "displayName": "Adey Coder Theme",
+  "author": "Yohanes Tesfaye",
+  "description": "Green and Dark Theme for VS Code Editor",
+  "version": "0.7.1",
+  "icon": "images/Logo.png",
+  "publisher": "AdeyCoder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yohanstesfaye/adey-coder-dark.git"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "Green dark theme",
+    "Adey Coder",
+    "Dark Theme",
+    "Green"
+  ],
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#294629",
+    "theme": "dark"
+  },
+  "sponsor": {
+    "url": "https://ko-fi.com/adeycoder"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adey Coder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Adey Coder Dark-color-theme.json"
+      },
+      {
+        "label": "Adey Coder - Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deep-Dark.json"
+      }
+    ]
+  }
 }
