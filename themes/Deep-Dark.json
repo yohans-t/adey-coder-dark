@@ -71,7 +71,7 @@
     "debugConsole.errorForeground": "#ff9494",
     "debugConsole.infoForeground": "#FFFFFF",
     "debugConsole.warningForeground": "#FFE496",
-    "debugIcon.pauseForeground": "#59FFFF",
+    "debugIcon.pauseForeground": "#89FFFF",
     "debugIcon.continueForeground": "#9BFF9B",
     "debugIcon.disconnectForeground": "#ff7776",
     "debugIcon.breakpointForeground": "#FFE496",
@@ -116,7 +116,6 @@
     "editorWarning.foreground": "#FFE496",
     "editorGhostText.foreground": "#CDFFCD37",
     "editorGroup.border": "#1D2D1D",
-    // "editorGroupHeader.border": "#1D2D1D",
 
     // Editor line numbers
     "editorLineNumber.foreground": "#293D29",
@@ -149,7 +148,7 @@
     "editorOverviewRuler.bracketMatchForeground": "#293D29",
     "editorOverviewRuler.deletedForeground": "#ff7776",
     "editorOverviewRuler.warningForeground": "#FFE496",
-    "editorOverviewRuler.infoForeground": "#59FFFF",
+    "editorOverviewRuler.infoForeground": "#89FFFF",
 
     // Extension
     "extensionIcon.starForeground": "#9BFF9B77",
@@ -159,7 +158,7 @@
     "extensionButton.background": "#6EBD6E",
     "extensionButton.foreground": "#0E150E",
     "extensionButton.hoverBackground": "#B3FEA7",
-    "extensionButton.separator": "#293D29",
+    "extensionButton.separator": "#0E150E77",
     "extensionButton.prominentBackground": "#6EBD6E",
     "extensionButton.prominentForeground": "#0E150E",
     "extensionButton.prominentHoverBackground": "#B3FEA7",
@@ -182,7 +181,7 @@
     "gitlens.graphChangesColumnDeletedColor": "#ff7776",
     "gitlens.graphLane1Color": "#9BFF9B",
     "gitlens.graphLane2Color": "#FFE496",
-    "gitlens.graphLane3Color": "#59FFFF",
+    "gitlens.graphLane3Color": "#89FFFF",
     "gitlens.graphLane4Color": "#FF81F7",
     "gitlens.graphLane5Color": "#F0FF77",
     "gitlens.graphLane6Color": "#5060FF",
@@ -190,14 +189,14 @@
     "gitlens.graphLane8Color": "#ff7776",
     "gitlens.graphMinimapMarkerHeadColor": "#B3FEA7",
     "gitlens.graphMinimapMarkerLocalBranchesColor": "#9BFF9B",
-    "gitlens.graphMinimapMarkerRemoteBranchesColor": "#59FFFF",
+    "gitlens.graphMinimapMarkerRemoteBranchesColor": "#89FFFF",
     "gitlens.graphMinimapMarkerStashesColor": "#FFE496",
     "gitlens.graphMinimapMarkerTagsColor": "#B3FEA7",
     "gitlens.graphMinimapMarkerUpstreamColor": "#9BFF9B",
     "gitlens.graphMinimapMarkerHighlightsColor": "#293D29",
     "gitlens.graphScrollMarkerHeadColor": "#B3FEA7",
     "gitlens.graphScrollMarkerLocalBranchesColor": "#9BFF9B",
-    "gitlens.graphScrollMarkerRemoteBranchesColor": "#59FFFF",
+    "gitlens.graphScrollMarkerRemoteBranchesColor": "#89FFFF",
     "gitlens.graphScrollMarkerStashesColor": "#FFE496",
     "gitlens.graphScrollMarkerTagsColor": "#B3FEA7",
     "gitlens.graphScrollMarkerUpstreamColor": "#9BFF9B",
@@ -217,7 +216,6 @@
     "input.background": "#1D2D1D",
     "input.foreground": "#7ED77E",
     "input.placeholderForeground": "#7ED77E77",
-    "input.border": "#293D29",
     "inputOption.activeBorder": "#9BFF9B",
     "inputOption.activeBackground": "#1D2D1D",
     "inputOption.hoverBackground": "#293D29",
@@ -225,8 +223,8 @@
     "inputValidation.errorBorder": "#FF7776",
     "inputValidation.warningBorder": "#FFE496",
     "inputValidation.warningForeground": "#FFE496",
-    "inputValidation.infoBorder": "#59FFFF",
-    "inputValidation.infoForeground": "#59FFFF",
+    "inputValidation.infoBorder": "#89FFFF",
+    "inputValidation.infoForeground": "#89FFFF",
 
     //Side Bar, Control Panel,... list
     "list.activeSelectionBackground": "#1D2D1D",
@@ -249,7 +247,7 @@
     "menu.background": "#1D2D1D",
     "menu.foreground": "#B3FEA7B9",
     "menu.border": "#1A291A",
-    "menu.separatorBackground": "#293D2979",
+    "menu.separatorBackground": "#0E150E77",
     "menu.selectionBackground": "#0E150E",
     "menu.selectionForeground": "#CDFFCD",
     "menubar.selectionBackground": "#1D2D1D",
@@ -274,7 +272,7 @@
     "notifications.foreground": "#CDFFCD",
     "notifications.border": "#0E150E57",
     "notificationsWarningIcon.foreground": "#FFE496",
-    "notificationsInfoIcon.foreground": "#59FFFF",
+    "notificationsInfoIcon.foreground": "#89FFFF",
     "notificationsErrorIcon.foreground": "#FF7776",
     "notificationToast.border": "#0E150E57",
     "notificationCenterHeader.background": "#233b23",
@@ -368,14 +366,14 @@
     "scrollbarSlider.background": "#1D2D1D",
 
     //SymbolIcons
-    "symbolIcon.classForeground": "#59FFFF",
+    "symbolIcon.classForeground": "#89FFFF",
     "symbolIcon.constantForeground": "#F0FF77",
     "symbolIcon.fieldForeground": "#6CED6C",
     "symbolIcon.functionForeground": "#D5FF00",
     "symbolIcon.keywordForeground": "#B987FF",
     "symbolIcon.methodForeground": "#B987FF",
     "symbolIcon.propertyForeground": "#AFFFAF",
-    "symbolIcon.snippetForeground": "#59FFFF",
+    "symbolIcon.snippetForeground": "#89FFFF",
     "symbolIcon.variableForeground": "#9BFF9B",
 
     //default set
@@ -405,7 +403,7 @@
     "terminal.ansiBlack": "#363636", // 0
     "terminal.ansiBlue": "#5060FF", // 1
     "terminal.ansiGreen": "#9BFF9B", // 2
-    "terminal.ansiCyan": "#59FFFF", // 3
+    "terminal.ansiCyan": "#89FFFF", // 3
     "terminal.ansiRed": "#FF7776", // 4
     "terminal.ansiMagenta": "#FF81F7", // 5
     "terminal.ansiYellow": "#F0FF77", // 6
@@ -832,7 +830,7 @@
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#59FFFF"
+        "foreground": "#89FFFF"
       }
     },
     {
@@ -860,14 +858,14 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#59FFFF"
+        "foreground": "#89FFFF"
       }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#59FFFF"
+        "foreground": "#89FFFF"
       }
     },
     {
