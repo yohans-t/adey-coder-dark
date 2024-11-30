@@ -2,6 +2,10 @@
 
 All notable changes.
 
+## [1.0.0]
+
+Added a new theme called **Deep Dark** it is a more darker with smooth syntax color scheme with less border on theme.
+
 ## [0.7.1]
 
 Added updates for new features

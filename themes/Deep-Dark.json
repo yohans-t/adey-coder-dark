@@ -203,7 +203,7 @@
 
     "gitlens.gutterUncommittedForegroundColor": "#9BFF9B",
     "gitlens.gutterForegroundColor": "#CDFFCD",
-    "gitlens.gutterBackgroundColor": "#1A291A",
+    "gitlens.gutterBackgroundColor": "#0A170A",
     "gitlens.lineHighlightBackgroundColor": "#9BFF9B30",
     "gitlens.lineHighlightOverviewRulerColor": "#9BFF9B",
     "gitlens.unpublishedChangesIconColor": "#C5F030",
@@ -245,7 +245,7 @@
     //Top Menu - done
     "menu.background": "#1D2D1D",
     "menu.foreground": "#B3FEA7B9",
-    "menu.border": "#1A291A",
+    "menu.border": "#0A170A",
     "menu.separatorBackground": "#0E150E77",
     "menu.selectionBackground": "#0E150E",
     "menu.selectionForeground": "#CDFFCD",
@@ -282,19 +282,19 @@
     "progressBar.background": "#CDFFCD",
 
     //Panel for terminals,debug console...etc - done
-    "panel.background": "#1A291A",
-    "panel.border": "#1D2D1D",
+    "panel.background": "#121C12",
+    "panel.border": "#1D2D1D00",
     "panelTitle.activeForeground": "#CDFFCD",
     "panelTitle.activeBorder": "#CDFFCD",
     "panelTitle.inactiveForeground": "#9BFF9B",
 
     //PeekView Editor
-    "peekViewTitle.background": "#1A291A",
-    "peekViewResult.background": "#1A291A",
-    "peekViewEditor.background": "#1A291A",
-    "peekViewTitleLabel.foreground": "#7ED77E",
+    "peekViewTitle.background": "#1D2D1D",
+    "peekViewResult.background": "#121C12",
+    "peekViewEditor.background": "#121C12",
+    "peekViewTitleLabel.foreground": "#6EBD6E",
     "peekViewTitleDescription.foreground": "#DEFFDE",
-    "peekView.border": "#1D2D1D",
+    "peekView.border": "#0E150E",
     "peekViewEditor.matchHighlightBackground": "#0E150E",
     "peekViewResult.matchHighlightBackground": "#0E150E",
     "peekViewResult.lineForeground": "#DEFFDE",
@@ -390,7 +390,7 @@
     "symbolIcon.operatorForeground": "#9BFF9B",
 
     //Terminal
-    "terminal.background": "#1A291A",
+    "terminal.background": "#121C12",
     "terminal.foreground": "#CDFFCD9A",
     "terminal.selectionBackground": "#0E150E",
     "terminal.selectionForeground": "#9BFF9B",
@@ -434,7 +434,7 @@
     "tab.hoverForeground": "#B3FEA7",
     "tab.activeModifiedBorder": "#7ED77E",
     "tab.inactiveModifiedBorder": "#7ED77EB0",
-    "tab.unfocusedActiveBackground": "#1A291A",
+    "tab.unfocusedActiveBackground": "#0A170A",
     "editorGroupHeader.tabsBackground": "#121C12",
     "editorGroup.dropBackground": "#1D2D1D",
 
@@ -451,7 +451,7 @@
 
     "widget.shadow": "#AFFFAF00",
     "welcomePage.progress.foreground": "#9BFF9B",
-    "welcomePage.tileBackground": "#1A291A",
+    "welcomePage.tileBackground": "#0A170A",
     "welcomePage.progress.background": "#1D2D1D77",
     "welcomePage.tileHoverBackground": "#1D2D1D"
   },
