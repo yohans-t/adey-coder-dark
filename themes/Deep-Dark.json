@@ -7,14 +7,14 @@
     "variable": "#9BFF9B",
     "*.local": "#9BFF9B",
     "parameter": "#9BFF9B",
-    "property": "#D5FF00",
+    "property": "#C5F030",
     "string": "#FFFFFF",
     "*.declaration": "#FFE496",
     "function": "#9BFF9B",
     "*.deprecated": "#ff9999",
     "operator": "#DEFFDE",
     "namespace": "#F4D476",
-    "type": "#D5FF00",
+    "type": "#C5F030",
     "bracket": "#DEFFDE"
   },
   "colors": {
@@ -67,7 +67,7 @@
 
     //DEBUG CONSOLE
     "debugToolBar.background": "#1D2D1D",
-    "debugConsole.sourceForeground": "#D5FF00",
+    "debugConsole.sourceForeground": "#C5F030",
     "debugConsole.errorForeground": "#ff9494",
     "debugConsole.infoForeground": "#FFFFFF",
     "debugConsole.warningForeground": "#FFE496",
@@ -98,17 +98,16 @@
     "editorWidget.background": "#1D2D1D",
     "editorWidget.foreground": "#DEFFDE",
     "editorWidget.border": "#1D2D1D",
-    "editorLightBulb.foreground": "#D5FF00",
+    "editorLightBulb.foreground": "#C5F030",
     "editorLightBulbAutoFix.foreground": "#9BFF9B",
     "editorStickyScrollHover.background": "#293D2977",
-    // "editorStickyScroll.background": "#0A170A",
 
     "editorSuggestWidget.background": "#1D2D1D",
     "editorSuggestWidget.border": "#1D2D1D",
     "editorSuggestWidget.foreground": "#DEFFDFB9",
     "editorSuggestWidget.selectedBackground": "#0E150E",
     "editorSuggestWidget.selectedIconForeground": "#6CED6C",
-    "editorSuggestWidget.highlightForeground": "#D5FF00",
+    "editorSuggestWidget.highlightForeground": "#C5F030",
     "editorSuggestWidget.focusHighlightForeground": "#9BFF9B",
     "editorSuggestWidget.selectedForeground": "#DEFFDE",
 
@@ -139,11 +138,11 @@
 
     //Editor Gutter
     "editorGutter.background": "#0E150E",
-    "editorGutter.modifiedBackground": "#D5FF00",
+    "editorGutter.modifiedBackground": "#C5F030",
     "editorGutter.addedBackground": "#9BFF9B",
     "editorGutter.deletedBackground": "#ff7776",
     "editorGutter.foldingControlForeground": "#9BFF9B",
-    "editorOverviewRuler.modifiedForeground": "#D5FF00",
+    "editorOverviewRuler.modifiedForeground": "#C5F030",
     "editorOverviewRuler.addedForeground": "#9BFF9B",
     "editorOverviewRuler.bracketMatchForeground": "#293D29",
     "editorOverviewRuler.deletedForeground": "#ff7776",
@@ -164,14 +163,14 @@
     "extensionButton.prominentHoverBackground": "#B3FEA7",
 
     //git source control
-    "gitDecoration.modifiedResourceForeground": "#D5FF00",
+    "gitDecoration.modifiedResourceForeground": "#C5F030",
     "gitDecoration.stageModifiedResourceForeground": "#ff0000",
     "gitDecoration.untrackedResourceForeground": "#9BFF9B",
     "gitDecoration.deletedResourceForeground": "#ff7776",
     "gitDecoration.ignoredResourceForeground": "#CDFFCD77",
     "gitDecoration.addedResourceForeground": "#9BFF9B",
     "gitlens.decorations.addedForegroundColor": "#9BFF9B",
-    "gitlens.decorations.modifiedForegroundColor": "#D5FF00",
+    "gitlens.decorations.modifiedForegroundColor": "#C5F030",
     "gitlens.decorations.ignoredForegroundColor": "#CDFFCD77",
     "gitlens.decorations.untrackedForegroundColor": "#9BFF9B",
     "gitlens.decorations.deletedForegroundColor": "#ff7776",
@@ -207,7 +206,7 @@
     "gitlens.gutterBackgroundColor": "#1A291A",
     "gitlens.lineHighlightBackgroundColor": "#9BFF9B30",
     "gitlens.lineHighlightOverviewRulerColor": "#9BFF9B",
-    "gitlens.unpublishedChangesIconColor": "#D5FF00",
+    "gitlens.unpublishedChangesIconColor": "#C5F030",
     "gitlens.unpublishedCommitIconColor": "#9BFF9B",
     "gitlens.unpulledChangesIconColor": "#FFE496",
     "gitlens.closedPullRequestIconColor": "#ff7776",
@@ -263,7 +262,7 @@
     "minimap.errorHighlight": "#ff7776",
     "minimap.warningHighlight": "#FFE496",
     "minimap.foregroundOpacity": "#000000C0",
-    "minimapGutter.modifiedBackground": "#D5FF00",
+    "minimapGutter.modifiedBackground": "#C5F030",
     "minimapGutter.addedBackground": "#9BFF9B",
     "minimapGutter.deletedBackground": "#ff7776",
 
@@ -369,7 +368,7 @@
     "symbolIcon.classForeground": "#89FFFF",
     "symbolIcon.constantForeground": "#F0FF77",
     "symbolIcon.fieldForeground": "#6CED6C",
-    "symbolIcon.functionForeground": "#D5FF00",
+    "symbolIcon.functionForeground": "#C5F030",
     "symbolIcon.keywordForeground": "#B987FF",
     "symbolIcon.methodForeground": "#B987FF",
     "symbolIcon.propertyForeground": "#AFFFAF",
@@ -615,7 +614,7 @@
         "meta.block.kotlin"
       ],
       "settings": {
-        "foreground": "#D5FF00"
+        "foreground": "#C5F030"
       }
     },
     {
@@ -737,7 +736,7 @@
       "name": "Source go",
       "scope": ["source.go"],
       "settings": {
-        "foreground": "#D5FF00"
+        "foreground": "#C5F030"
       }
     },
     {
@@ -772,7 +771,7 @@
       "scope": ["variable.parameter"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#D5FF00"
+        "foreground": "#C5F030"
       }
     },
     {
@@ -823,7 +822,7 @@
       "name": "CSS Tag Selector",
       "scope": ["entity.name.tag.css"],
       "settings": {
-        "foreground": "#D5FF00"
+        "foreground": "#C5F030"
       }
     },
     {
@@ -837,7 +836,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#D5FF00"
+        "foreground": "#C5F030"
       }
     },
     {
@@ -1002,7 +1001,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#D5FF00"
+        "foreground": "#C5F030"
       }
     },
     {
