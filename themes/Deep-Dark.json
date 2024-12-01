@@ -282,11 +282,11 @@
     "progressBar.background": "#CDFFCD",
 
     //Panel for terminals,debug console...etc - done
-    "panel.background": "#121C12",
-    "panel.border": "#1D2D1D00",
-    "panelTitle.activeForeground": "#CDFFCD",
-    "panelTitle.activeBorder": "#CDFFCD",
-    "panelTitle.inactiveForeground": "#9BFF9B",
+    "panel.background": "#0A170A",
+    "panel.border": "#1D2D1D",
+    "panelTitle.inactiveForeground": "#CDFFCD97",
+    "panelTitle.activeBorder": "#9BFF9B",
+    "panelTitle.activeForeground": "#9BFF9B",
 
     //PeekView Editor
     "peekViewTitle.background": "#1D2D1D",
@@ -390,7 +390,7 @@
     "symbolIcon.operatorForeground": "#9BFF9B",
 
     //Terminal
-    "terminal.background": "#121C12",
+    "terminal.background": "#0A170A",
     "terminal.foreground": "#CDFFCD9A",
     "terminal.selectionBackground": "#0E150E",
     "terminal.selectionForeground": "#9BFF9B",
