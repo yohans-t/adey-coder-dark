@@ -283,7 +283,7 @@
 
     //Panel for terminals,debug console...etc - done
     "panel.background": "#0A170A",
-    "panel.border": "#1D2D1D",
+    "panel.border": "#293D29",
     "panelTitle.inactiveForeground": "#CDFFCD97",
     "panelTitle.activeBorder": "#9BFF9B",
     "panelTitle.activeForeground": "#9BFF9B",
@@ -398,6 +398,8 @@
     "terminalCursor.foreground": "#7ED77E",
     "terminalCursor.background": "#7ED77E",
     "terminal.tab.activeBorder": "#9BFF9B",
+
+    "terminalStickyScroll.background": "#f00",
 
     "terminal.ansiBlack": "#363636", // 0
     "terminal.ansiBlue": "#5060FF", // 1

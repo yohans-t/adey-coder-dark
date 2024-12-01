@@ -6,6 +6,8 @@ All notable changes.
 
 Added a new theme called **Deep Dark** it is a more darker with smooth syntax color scheme with less border on theme.
 
+![Deep dark theme new theme](./images/new.png)
+
 ## [0.7.1]
 
 Added updates for new features
