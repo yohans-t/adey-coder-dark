@@ -820,7 +820,12 @@
     },
     {
       "name": "CSS Classes",
-      "scope": ["entity.other.attribute-name.class"],
+      "scope": [
+        "entity.other.attribute-name.class",
+        "meta.property-name.css",
+        "entity.other.attribute-name.class meta.property-name.css",
+        "entity.other.attribute-name.id.css"
+      ],
       "settings": {
         "foreground": "#6BFF6B"
       }
