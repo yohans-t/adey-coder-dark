@@ -796,7 +796,10 @@
 
     {
       "name": "Attributes",
-      "scope": ["entity.other.attribute-name.pseudo-class.css"],
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "meta.property-value.css"
+      ],
       "settings": {
         "foreground": "#FFE496"
       }
