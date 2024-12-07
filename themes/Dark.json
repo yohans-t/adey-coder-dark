@@ -802,7 +802,10 @@
 
     {
       "name": "Attributes",
-      "scope": ["entity.other.attribute-name.pseudo-class.css"],
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "meta.property-value.css"
+      ],
       "settings": {
         "foreground": "#FFD476"
       }
@@ -833,7 +836,10 @@
 
     {
       "name": "CSS Tag Selector",
-      "scope": ["entity.name.tag.css"],
+      "scope": [
+        "entity.name.tag.css",
+        "meta.selector.css support.type.property-name.css"
+      ],
       "settings": {
         "foreground": "#D5FF00"
       }
