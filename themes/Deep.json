@@ -33,7 +33,7 @@
 
     //Breadcrumb
     "breadcrumb.background": "#0E150E",
-    "breadcrumb.foreground": "#293D29",
+    "breadcrumb.foreground": "#355035",
     "breadcrumb.focusForeground": "#9BFF9B",
     "breadcrumb.activeSelectionForeground": "#9BFF9B",
     "breadcrumbPicker.background": "#1D2D1D",
@@ -231,7 +231,7 @@
     "list.activeSelectionIconForeground": "#9BFF9B",
     "list.inactiveSelectionIconForeground": "#9BFF9B89",
     "list.inactiveSelectionBackground": "#1D2D1DB9",
-    "list.inactiveSelectionForeground": "#FFFFFF77",
+    "list.inactiveSelectionForeground": "#FFFFFF",
     "list.hoverBackground": "#1D2D1D",
     "list.focusForeground": "#FFFFFF",
     "list.focusBackground": "#1D2D1D77",
@@ -463,7 +463,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#293D29"
+        "foreground": "#355035"
       }
     },
     {
